@@ -13,4 +13,4 @@ with open("targets.csv", newline="") as targetsfile:
 
         result = jq.compile(".data").input(text=r.text).all()
         with open(f"data/{row[0]}-{row[1]}.json", "w", encoding="utf-8") as f:
-            json.dump(result, f)
+            json.dump(result, f, indent=4)
