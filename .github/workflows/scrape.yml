@@ -1,0 +1,14 @@
+name: Scrape Prices
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - run: curl -s "https://shopee.com.my/api/v4/item/get?itemid=382243789&shopid=5954247" | jq '.data'
