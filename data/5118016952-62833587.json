@@ -1,0 +1,196 @@
+[
+  {
+    "itemid": 5118016952,
+    "shopid": 62833587,
+    "userid": 0,
+    "price_max_before_discount": 299900000,
+    "has_lowest_price_guarantee": false,
+    "price_before_discount": 299900000,
+    "price_min_before_discount": 299900000,
+    "exclusive_price_info": null,
+    "hidden_price_display": null,
+    "price_min": 249900000,
+    "price_max": 249900000,
+    "price": 249900000,
+    "stock": 91,
+    "discount": "17%",
+    "historical_sold": 146,
+    "sold": 5,
+    "show_discount": 17,
+    "raw_discount": 17,
+    "min_purchase_limit": 0,
+    "overall_purchase_limit": {
+      "order_max_purchase_limit": 0,
+      "overall_purchase_limit": null,
+      "item_overall_quota": null,
+      "start_date": null,
+      "end_date": null
+    },
+    "pack_size": null,
+    "is_live_streaming_price": null,
+    "name": "Dyson Cyclone V10 Absolute Vacuum Cleaner",
+    "ctime": 1582794234,
+    "item_status": "normal",
+    "status": 1,
+    "condition": 1,
+    "catid": 100010,
+    "description": "Engineered to deep clean anywhere\n\u2022\tPowerful suction to deep clean anywhere.\n\u2022\tUp to 60 mins of run time.\n\u2022\tWhole machine filtration and hygienic point-and-shoot bin emptying\n\u2022\t2 cleaner heads, 4 extra tools.\n\nIn the box: \n\u2022\tDyson Cyclone V10\u2122 Absolute\n\u2022\tQuick-release Direct Drive Cleaner Head\n\u2022\tSoft Roller Cleaner head\n\u2022\tQuick-release combination tool\n\u2022\tQuick-release crevice tool\n\u2022\tQuick-release mini motorised tool\n\u2022\tQuick-release mini soft dusting brush\n\u2022\tCharger\n\u2022\tDocking station\n\nDyson V10 Absolute specifications:\n\u2022\tSuction Power - 150 AirWatts\n\u2022\tWeight - 2.5Kg\n\u2022\tDimensions - 256mm x 1241mm x 250mm\n\u2022\tCyclone technology - 14 concentric array cyclones\n\u2022\tFiltration - Advanced whole machine filtration\n\u2022\tCleaner head - Soft Roller Cleaner Head & Direct-Drive Cleaner Head\n\nDyson V10 Absolute features:\n\u2022\tUp to 60 minutes of fade-free suction.\n\u2022\tThree power modes - The right power when you need it. 3 modes to choose from to suit any task on any surface.\n\u2022\tQuickly transforms to a handheld - Changes a handheld vacuum cleaner and back again, in just one click.\n\u2022\tPoint and Shoot Hygienic Bin Emptying - The mechanism hygienically ejects dust and debris deep into your bin in \n        one action. So, there's no need to touch the dirt. \n\u2022\tDrop-in docking - The V10 vacuum cleaner drops into the wall mounted dock, to recharge it and tidily store tools. \n        It's ready to go and grab.\n\u2022\tPowered by the Dyson digital motor V10\n",
+    "is_mart": false,
+    "show_shopee_verified_label": false,
+    "size_chart": null,
+    "reference_item_id": "",
+    "brand": "Dyson",
+    "item_rating": {
+      "rating_star": 4.916666666666667,
+      "rating_count": [
+        85,
+        2,
+        0,
+        0,
+        3,
+        80
+      ]
+    },
+    "label_ids": [
+      1000084,
+      1000101,
+      1000027,
+      1004731,
+      1007550,
+      1000114
+    ],
+    "attributes": null,
+    "liked": false,
+    "liked_count": 368,
+    "cmt_count": 85,
+    "flag": 524288,
+    "shopee_verified": false,
+    "is_adult": false,
+    "is_preferred_plus_seller": false,
+    "tier_variations": [
+      {
+        "name": "",
+        "options": [
+          ""
+        ],
+        "images": null,
+        "properties": null,
+        "type": 0
+      }
+    ],
+    "bundle_deal_id": 0,
+    "can_use_bundle_deal": false,
+    "add_on_deal_info": null,
+    "bundle_deal_info": null,
+    "can_use_wholesale": false,
+    "wholesale_tier_list": [],
+    "is_group_buy_item": null,
+    "group_buy_info": null,
+    "welcome_package_type": 0,
+    "welcome_package_info": null,
+    "images": [
+      "2fdbd407929f208543db665929344479",
+      "b8e5267230b69a98493643bb81b631af",
+      "1025c9783dfbe1b85f67c252feb1a648",
+      "0c60fb540807f5b715fa80fad7b3fe96",
+      "905fcd81fa72f206ab18af95c2fb80d9",
+      "7254b71bcd61f63bfe28cc0fe40e3dcb",
+      "1c739a37574710d89e1b71775f09a776",
+      "8d50c29383694a906e48c2f810430d12"
+    ],
+    "image": "2fdbd407929f208543db665929344479",
+    "video_info_list": null,
+    "item_type": 0,
+    "is_official_shop": true,
+    "show_official_shop_label_in_title": true,
+    "shop_location": "Selangor",
+    "coin_earn_label": null,
+    "cb_option": 0,
+    "is_pre_order": false,
+    "estimated_days": 2,
+    "badge_icon_type": 0,
+    "show_free_shipping": false,
+    "shipping_icon_type": 0,
+    "cod_flag": 0,
+    "show_original_guarantee": true,
+    "categories": [
+      {
+        "catid": 100010,
+        "display_name": "Home Appliances",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 100038,
+        "display_name": "Small Household Appliances",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 100177,
+        "display_name": "Vacuum Cleaners & Floor Care Appliances",
+        "no_sub": true,
+        "is_default_subcat": false
+      }
+    ],
+    "other_stock": 0,
+    "item_has_post": false,
+    "discount_stock": 91,
+    "current_promotion_has_reserve_stock": false,
+    "current_promotion_reserved_stock": 0,
+    "normal_stock": 91,
+    "brand_id": 1801048,
+    "is_alcohol_product": false,
+    "show_recycling_info": false,
+    "coin_info": {
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        }
+      ]
+    },
+    "models": [
+      {
+        "itemid": 5118016952,
+        "status": 1,
+        "current_promotion_reserved_stock": 0,
+        "name": "",
+        "promotionid": 1280334169,
+        "price": 249900000,
+        "price_stocks": [
+          {
+            "allocated_stock": 0,
+            "stock_breakdown_by_location": null
+          },
+          {
+            "allocated_stock": null,
+            "stock_breakdown_by_location": null
+          }
+        ],
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 91,
+        "extinfo": {
+          "tier_index": [
+            0
+          ],
+          "group_buy_info": null
+        },
+        "price_before_discount": 299900000,
+        "modelid": 32075683955,
+        "stock": 91,
+        "has_gimmick_tag": false
+      }
+    ],
+    "spl_info": null,
+    "preview_info": null,
+    "is_cc_installment_payment_eligible": true,
+    "is_non_cc_installment_payment_eligible": false,
+    "flash_sale": null,
+    "upcoming_flash_sale": null,
+    "deep_discount": null,
+    "has_low_fulfillment_rate": false,
+    "is_partial_fulfilled": false,
+    "makeups": null
+  }
+]
