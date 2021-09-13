@@ -2,7 +2,7 @@ name: Scrape Prices
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
       - run: poetry run python scrape.py
 
       - id: get-date
-        run: echo "::set-output name=value::$(date --iso-8601)"
+        run: echo "::set-output name=value::$(date --iso-8601=minutes)"
 
       - name: commit all changed/added files in data/
         uses: EndBug/add-and-commit@v7
