@@ -193,6 +193,7 @@
     "deep_discount": null,
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
-    "makeups": null
+    "makeups": null,
+    "shop_vouchers": []
   }
 ]
