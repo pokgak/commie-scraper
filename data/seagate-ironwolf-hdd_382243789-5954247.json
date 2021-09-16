@@ -9,15 +9,15 @@
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 26900000,
+    "price_min": 27500000,
     "price_max": 187900000,
-    "price": 26900000,
-    "stock": 61,
-    "discount": "46%",
+    "price": 27500000,
+    "stock": 388,
+    "discount": "45%",
     "historical_sold": 1375,
-    "sold": 97,
-    "show_discount": 46,
-    "raw_discount": 46,
+    "sold": 91,
+    "show_discount": 45,
+    "raw_discount": 45,
     "min_purchase_limit": 0,
     "overall_purchase_limit": {
       "order_max_purchase_limit": 0,
@@ -105,7 +105,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 515,
+    "liked_count": 516,
     "cmt_count": 459,
     "flag": 655362,
     "shopee_verified": false,
@@ -193,12 +193,12 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 328,
+    "other_stock": 0,
     "item_has_post": false,
-    "discount_stock": 61,
-    "current_promotion_has_reserve_stock": true,
-    "current_promotion_reserved_stock": 60,
-    "normal_stock": 329,
+    "discount_stock": 388,
+    "current_promotion_has_reserve_stock": false,
+    "current_promotion_reserved_stock": 0,
+    "normal_stock": 388,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -235,13 +235,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 0,
         "name": "1TB",
-        "promotionid": 115540,
-        "price": 26900000,
+        "promotionid": 1265692054,
+        "price": 27500000,
         "price_stocks": [
           {
-            "allocated_stock": 10,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -249,8 +249,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 31,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 41,
         "extinfo": {
           "tier_index": [
             0
@@ -259,19 +259,19 @@
         },
         "price_before_discount": 49900000,
         "modelid": 13140538210,
-        "stock": 10,
+        "stock": 41,
         "has_gimmick_tag": false
       },
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 0,
         "name": "2TB",
-        "promotionid": 115540,
-        "price": 32900000,
+        "promotionid": 1265692054,
+        "price": 36500000,
         "price_stocks": [
           {
-            "allocated_stock": 10,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -279,8 +279,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 51,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 61,
         "extinfo": {
           "tier_index": [
             1
@@ -289,19 +289,19 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 10,
+        "stock": 61,
         "has_gimmick_tag": false
       },
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 0,
         "name": "3TB",
-        "promotionid": 115540,
-        "price": 45900000,
+        "promotionid": 1265692054,
+        "price": 50900000,
         "price_stocks": [
           {
-            "allocated_stock": 10,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -309,8 +309,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 33,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 43,
         "extinfo": {
           "tier_index": [
             2
@@ -319,19 +319,19 @@
         },
         "price_before_discount": 69900000,
         "modelid": 13140538212,
-        "stock": 10,
+        "stock": 43,
         "has_gimmick_tag": false
       },
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 0,
         "name": "4TB",
-        "promotionid": 115540,
-        "price": 51900000,
+        "promotionid": 1265692054,
+        "price": 54900000,
         "price_stocks": [
           {
-            "allocated_stock": 10,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -339,8 +339,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 139,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 149,
         "extinfo": {
           "tier_index": [
             3
@@ -349,19 +349,19 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 10,
+        "stock": 149,
         "has_gimmick_tag": false
       },
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 0,
         "name": "6TB",
-        "promotionid": 115540,
-        "price": 83900000,
+        "promotionid": 1265692054,
+        "price": 86900000,
         "price_stocks": [
           {
-            "allocated_stock": 10,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -369,8 +369,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 32,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 41,
         "extinfo": {
           "tier_index": [
             4
@@ -379,19 +379,19 @@
         },
         "price_before_discount": 129900000,
         "modelid": 13140538214,
-        "stock": 10,
+        "stock": 41,
         "has_gimmick_tag": false
       },
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 0,
         "name": "8TB",
-        "promotionid": 115540,
-        "price": 109900000,
+        "promotionid": 1265692054,
+        "price": 119900000,
         "price_stocks": [
           {
-            "allocated_stock": 10,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -399,8 +399,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 42,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 52,
         "extinfo": {
           "tier_index": [
             5
@@ -409,7 +409,7 @@
         },
         "price_before_discount": 199900000,
         "modelid": 13140538215,
-        "stock": 10,
+        "stock": 52,
         "has_gimmick_tag": false
       },
       {
@@ -484,73 +484,6 @@
     "is_partial_fulfilled": false,
     "makeups": null,
     "shop_vouchers": [
-      {
-        "promotionid": 170761113714688,
-        "voucher_code": "SELCLFT7",
-        "signature": "88363998897ba2b6bba943a0bd3fbff7a2b11c07325bf2f33dc5e9e78b451f2a",
-        "use_type": null,
-        "platform_type": null,
-        "voucher_market_type": null,
-        "min_spend": 3000000,
-        "used_price": null,
-        "current_spend": null,
-        "product_limit": false,
-        "quota_type": 1,
-        "percentage_claimed": 0,
-        "percentage_used": 94,
-        "start_time": 1631721600,
-        "end_time": 1631807940,
-        "collect_time": null,
-        "claim_start_time": null,
-        "valid_days": null,
-        "reward_type": 0,
-        "reward_percentage": null,
-        "reward_value": null,
-        "reward_cap": null,
-        "coin_earned": null,
-        "title": null,
-        "use_link": null,
-        "icon_hash": "b0aaa32a5aa5c72ed2489b795171153d",
-        "icon_text": "Mono Digital Official Store",
-        "icon_url": null,
-        "customised_labels": [],
-        "customised_product_scope_tags": null,
-        "shop_id": 5954247,
-        "shop_name": null,
-        "is_shop_preferred": false,
-        "is_shop_official": true,
-        "shop_count": null,
-        "ui_display_type": null,
-        "customised_mall_name": null,
-        "small_icon_list": null,
-        "dp_category_name": null,
-        "invalid_message_code": null,
-        "invalid_message": null,
-        "display_labels": null,
-        "wallet_redeemable": null,
-        "customer_reference_id": null,
-        "fully_redeemed": null,
-        "has_expired": null,
-        "disabled": null,
-        "voucher_external_market_type": null,
-        "now_food_extra_info": null,
-        "airpay_opv_extra_info": null,
-        "partner_extra_info": null,
-        "discount_value": 0,
-        "discount_percentage": 10,
-        "discount_cap": 300000,
-        "coin_percentage": null,
-        "coin_cap": null,
-        "usage_limit": null,
-        "used_count": null,
-        "left_count": null,
-        "shopee_wallet_only": null,
-        "new_user_only": null,
-        "description": null,
-        "shop_logo": null,
-        "error_code": 0,
-        "is_claimed_before": false
-      },
       {
         "promotionid": 182934351003648,
         "voucher_code": "MONOQ4RM5",
