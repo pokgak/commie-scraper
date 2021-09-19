@@ -41,14 +41,14 @@
     "reference_item_id": "",
     "brand": "Dyson",
     "item_rating": {
-      "rating_star": 4.921348314606742,
+      "rating_star": 4.9222222222222225,
       "rating_count": [
-        90,
+        91,
         2,
         0,
         0,
         3,
-        85
+        86
       ]
     },
     "label_ids": [
@@ -64,7 +64,7 @@
     "attributes": null,
     "liked": false,
     "liked_count": 370,
-    "cmt_count": 90,
+    "cmt_count": 91,
     "flag": 524288,
     "shopee_verified": false,
     "is_adult": false,
