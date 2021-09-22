@@ -105,7 +105,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 519,
+    "liked_count": 520,
     "cmt_count": 462,
     "flag": 655362,
     "shopee_verified": false,
@@ -563,7 +563,7 @@
         "current_spend": null,
         "product_limit": false,
         "quota_type": 1,
-        "percentage_claimed": 1,
+        "percentage_claimed": 2,
         "percentage_used": 1,
         "start_time": 1632153600,
         "end_time": 1633881540,
