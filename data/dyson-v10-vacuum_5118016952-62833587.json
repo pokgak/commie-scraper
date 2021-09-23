@@ -186,7 +186,26 @@
     ],
     "spl_info": null,
     "preview_info": null,
-    "fe_categories": [],
+    "fe_categories": [
+      {
+        "catid": 11000824,
+        "display_name": "Home Appliances",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 11000892,
+        "display_name": "Vacuum",
+        "no_sub": false,
+        "is_default_subcat": false
+      },
+      {
+        "catid": 11000895,
+        "display_name": "Vacuum Cleaner Parts",
+        "no_sub": true,
+        "is_default_subcat": false
+      }
+    ],
     "is_cc_installment_payment_eligible": true,
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
