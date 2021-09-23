@@ -186,6 +186,7 @@
     ],
     "spl_info": null,
     "preview_info": null,
+    "fe_categories": [],
     "is_cc_installment_payment_eligible": true,
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
