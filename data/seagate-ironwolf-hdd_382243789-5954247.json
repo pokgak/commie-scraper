@@ -4,7 +4,7 @@
     "shopid": 5954247,
     "userid": 0,
     "price_max_before_discount": 269900000,
-    "has_lowest_price_guarantee": false,
+    "has_lowest_price_guarantee": true,
     "price_before_discount": 49900000,
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
@@ -12,7 +12,7 @@
     "price_min": 28500000,
     "price_max": 189900000,
     "price": 28500000,
-    "stock": 309,
+    "stock": 289,
     "discount": "43%",
     "historical_sold": 1391,
     "sold": 95,
@@ -195,10 +195,10 @@
     ],
     "other_stock": 0,
     "item_has_post": false,
-    "discount_stock": 309,
+    "discount_stock": 289,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 309,
+    "normal_stock": 289,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -280,7 +280,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 66,
+        "normal_stock": 56,
         "extinfo": {
           "tier_index": [
             1
@@ -289,7 +289,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 66,
+        "stock": 56,
         "has_gimmick_tag": false
       },
       {
@@ -340,7 +340,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 116,
+        "normal_stock": 106,
         "extinfo": {
           "tier_index": [
             3
@@ -349,7 +349,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 116,
+        "stock": 106,
         "has_gimmick_tag": false
       },
       {
@@ -499,7 +499,34 @@
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
     "upcoming_flash_sale": null,
-    "deep_discount": null,
+    "deep_discount": {
+      "promotion": {
+        "promotion_id": 115227,
+        "sold_count": null,
+        "start_time": 1632499200,
+        "end_time": 1632506340,
+        "price_before_discount": 59900000,
+        "promotion_price": null,
+        "deep_discount_sub_type": 1,
+        "user_eligibility": 1
+      },
+      "skin": {
+        "mobile": {
+          "font_color": "#ffffff",
+          "background_image": "7a2814978fb244ec6eb680566a34a88e",
+          "pre_hype_text": "Get this at <strong>RM340.80 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
+          "text_left_offset": 20
+        },
+        "pc": {
+          "font_color": "#ffffff",
+          "background_image": "eb0088e8f2674e4570b6eca9ac0bb408",
+          "pre_hype_text": "Get this at <strong>RM340.80 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
+          "text_left_offset": 15
+        }
+      },
+      "hide_atc_and_direct_buy_now": false,
+      "hide_skin": false
+    },
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
     "makeups": null,
