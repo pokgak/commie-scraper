@@ -14,7 +14,7 @@
     "price": 28500000,
     "stock": 300,
     "discount": "43%",
-    "historical_sold": 1392,
+    "historical_sold": 1393,
     "sold": 87,
     "show_discount": 43,
     "raw_discount": 43,
@@ -104,7 +104,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 525,
+    "liked_count": 526,
     "cmt_count": 464,
     "flag": 655362,
     "shopee_verified": false,
