@@ -67,7 +67,8 @@
       1008514,
       1000059,
       1008513,
-      1005053
+      1005053,
+      1003234
     ],
     "attributes": [
       {
@@ -104,7 +105,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 526,
+    "liked_count": 527,
     "cmt_count": 464,
     "flag": 655362,
     "shopee_verified": false,
