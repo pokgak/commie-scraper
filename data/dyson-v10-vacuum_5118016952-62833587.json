@@ -206,6 +206,7 @@
         "is_default_subcat": false
       }
     ],
+    "presale_info": null,
     "is_cc_installment_payment_eligible": true,
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
