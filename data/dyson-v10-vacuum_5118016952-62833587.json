@@ -14,7 +14,7 @@
     "price": 249900000,
     "stock": 67,
     "discount": "17%",
-    "historical_sold": 162,
+    "historical_sold": 163,
     "sold": 24,
     "show_discount": 17,
     "raw_discount": 17,
@@ -52,10 +52,9 @@
       ]
     },
     "label_ids": [
-      1000027,
       1000084,
       1000101,
-      1000114,
+      1000027,
       1004731,
       1007550,
       1008514,
