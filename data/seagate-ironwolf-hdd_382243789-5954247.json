@@ -4,7 +4,7 @@
     "shopid": 5954247,
     "userid": 0,
     "price_max_before_discount": 269900000,
-    "has_lowest_price_guarantee": false,
+    "has_lowest_price_guarantee": true,
     "price_before_discount": 49900000,
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
@@ -41,14 +41,14 @@
     "reference_item_id": "",
     "brand": "Seagate",
     "item_rating": {
-      "rating_star": 4.871035940803383,
+      "rating_star": 4.8715789473684215,
       "rating_count": [
-        474,
+        476,
         6,
         3,
         9,
         14,
-        442
+        444
       ]
     },
     "label_ids": [
@@ -105,7 +105,7 @@
     ],
     "liked": false,
     "liked_count": 528,
-    "cmt_count": 473,
+    "cmt_count": 475,
     "flag": 655362,
     "shopee_verified": false,
     "is_adult": false,
