@@ -12,7 +12,7 @@
     "price_min": 27900000,
     "price_max": 189900000,
     "price": 27900000,
-    "stock": 269,
+    "stock": 249,
     "discount": "44%",
     "historical_sold": 1429,
     "sold": 71,
@@ -194,10 +194,10 @@
     ],
     "other_stock": 0,
     "item_has_post": false,
-    "discount_stock": 269,
+    "discount_stock": 249,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 269,
+    "normal_stock": 249,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -279,7 +279,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 58,
+        "normal_stock": 48,
         "extinfo": {
           "tier_index": [
             1
@@ -288,7 +288,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 58,
+        "stock": 48,
         "has_gimmick_tag": false
       },
       {
@@ -339,7 +339,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 91,
+        "normal_stock": 81,
         "extinfo": {
           "tier_index": [
             3
@@ -348,7 +348,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 91,
+        "stock": 81,
         "has_gimmick_tag": false
       },
       {
@@ -499,7 +499,35 @@
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
     "upcoming_flash_sale": null,
-    "deep_discount": null,
+    "deep_discount": {
+      "promotion": {
+        "promotion_id": 118797,
+        "sold_count": null,
+        "start_time": 1633795200,
+        "end_time": 1633802340,
+        "price_before_discount": 59900000,
+        "promotion_price": null,
+        "deep_discount_sub_type": 1,
+        "user_eligibility": 1
+      },
+      "skin": {
+        "mobile": {
+          "font_color": "#ffffff",
+          "background_image": "7710db93bb35ac75dfe0ba159b7d6116",
+          "pre_hype_text": "Get this at <strong>RM340.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
+          "text_left_offset": 20
+        },
+        "pc": {
+          "font_color": "#ffffff",
+          "background_image": "7d6e6c1b1e3f334fc26bfd8eb365a1dc",
+          "pre_hype_text": "Get this at <strong>RM340.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
+          "text_left_offset": 10
+        }
+      },
+      "hide_atc_and_direct_buy_now": false,
+      "hide_skin": false,
+      "show_deep_discount_banner": true
+    },
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
     "makeups": null,
