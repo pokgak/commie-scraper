@@ -12,9 +12,9 @@
     "price_min": 27900000,
     "price_max": 189900000,
     "price": 27900000,
-    "stock": 247,
+    "stock": 246,
     "discount": "44%",
-    "historical_sold": 1433,
+    "historical_sold": 1437,
     "sold": 71,
     "show_discount": 44,
     "raw_discount": 44,
@@ -66,8 +66,7 @@
       1008514,
       1000059,
       1008513,
-      1005053,
-      10
+      1005053
     ],
     "attributes": [
       {
@@ -194,10 +193,10 @@
     ],
     "other_stock": 0,
     "item_has_post": false,
-    "discount_stock": 247,
+    "discount_stock": 246,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 247,
+    "normal_stock": 246,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -399,7 +398,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 73,
+        "normal_stock": 72,
         "extinfo": {
           "tier_index": [
             5
@@ -408,7 +407,7 @@
         },
         "price_before_discount": 199900000,
         "modelid": 13140538215,
-        "stock": 73,
+        "stock": 72,
         "has_gimmick_tag": false
       },
       {
@@ -521,7 +520,7 @@
           "font_color": "#ffffff",
           "background_image": "7d6e6c1b1e3f334fc26bfd8eb365a1dc",
           "pre_hype_text": "Get this at <strong>RM340.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
-          "text_left_offset": 10
+          "text_left_offset": 15
         }
       },
       "hide_atc_and_direct_buy_now": false,

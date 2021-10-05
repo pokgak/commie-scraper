@@ -14,7 +14,7 @@
     "price": 299900000,
     "stock": 67,
     "discount": null,
-    "historical_sold": 168,
+    "historical_sold": 169,
     "sold": 22,
     "show_discount": 0,
     "raw_discount": 0,
@@ -41,14 +41,14 @@
     "reference_item_id": "",
     "brand": "Dyson",
     "item_rating": {
-      "rating_star": 4.924731182795699,
+      "rating_star": 4.925531914893617,
       "rating_count": [
-        94,
+        95,
         2,
         0,
         0,
         3,
-        89
+        90
       ]
     },
     "label_ids": [
@@ -63,7 +63,7 @@
     "attributes": null,
     "liked": false,
     "liked_count": 402,
-    "cmt_count": 94,
+    "cmt_count": 95,
     "flag": 655360,
     "shopee_verified": false,
     "is_adult": false,
@@ -228,7 +228,7 @@
           "font_color": "#ffffff",
           "background_image": "7d6e6c1b1e3f334fc26bfd8eb365a1dc",
           "pre_hype_text": "Get this at <strong>RM2,579.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
-          "text_left_offset": 10
+          "text_left_offset": 15
         }
       },
       "hide_atc_and_direct_buy_now": false,
