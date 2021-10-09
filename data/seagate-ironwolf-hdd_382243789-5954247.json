@@ -12,7 +12,7 @@
     "price_min": 28500000,
     "price_max": 189900000,
     "price": 28500000,
-    "stock": 132,
+    "stock": 249,
     "discount": "43%",
     "historical_sold": 1445,
     "sold": 83,
@@ -194,12 +194,12 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 117,
+    "other_stock": 0,
     "item_has_post": false,
-    "discount_stock": 132,
-    "current_promotion_has_reserve_stock": true,
-    "current_promotion_reserved_stock": 20,
-    "normal_stock": 229,
+    "discount_stock": 249,
+    "current_promotion_has_reserve_stock": false,
+    "current_promotion_reserved_stock": 0,
+    "normal_stock": 249,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -266,13 +266,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 0,
         "name": "2TB",
-        "promotionid": 118797,
-        "price": 35500000,
+        "promotionid": 1265692054,
+        "price": 36500000,
         "price_stocks": [
           {
-            "allocated_stock": 10,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -280,8 +280,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 43,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 53,
         "extinfo": {
           "tier_index": [
             1
@@ -290,7 +290,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 10,
+        "stock": 53,
         "has_gimmick_tag": false
       },
       {
@@ -326,13 +326,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 0,
         "name": "4TB",
-        "promotionid": 118797,
-        "price": 53900000,
+        "promotionid": 1265692054,
+        "price": 54900000,
         "price_stocks": [
           {
-            "allocated_stock": 10,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -340,8 +340,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 74,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 84,
         "extinfo": {
           "tier_index": [
             3
@@ -350,7 +350,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 10,
+        "stock": 84,
         "has_gimmick_tag": false
       },
       {
@@ -501,35 +501,7 @@
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
     "upcoming_flash_sale": null,
-    "deep_discount": {
-      "promotion": {
-        "promotion_id": 118797,
-        "sold_count": 0,
-        "start_time": 1633795200,
-        "end_time": 1633802340,
-        "price_before_discount": 59900000,
-        "promotion_price": 35500000,
-        "deep_discount_sub_type": 1,
-        "user_eligibility": 1
-      },
-      "skin": {
-        "mobile": {
-          "font_color": "#ffffff",
-          "background_image": "7710db93bb35ac75dfe0ba159b7d6116",
-          "pre_hype_text": "Get this at <strong>RM355.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
-          "text_left_offset": 20
-        },
-        "pc": {
-          "font_color": "#ffffff",
-          "background_image": "7d6e6c1b1e3f334fc26bfd8eb365a1dc",
-          "pre_hype_text": "Get this at <strong>RM355.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
-          "text_left_offset": 15
-        }
-      },
-      "hide_atc_and_direct_buy_now": false,
-      "hide_skin": false,
-      "show_deep_discount_banner": true
-    },
+    "deep_discount": null,
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
     "makeups": null,
