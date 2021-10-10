@@ -12,7 +12,7 @@
     "price_min": 28500000,
     "price_max": 189900000,
     "price": 28500000,
-    "stock": 251,
+    "stock": 229,
     "discount": "43%",
     "historical_sold": 1447,
     "sold": 83,
@@ -64,12 +64,11 @@
       1006236,
       1007591,
       1008514,
-      1008671,
       1002913,
       1000059,
+      1003234,
       1005053,
-      1008513,
-      1003234
+      1008513
     ],
     "attributes": [
       {
@@ -196,10 +195,10 @@
     ],
     "other_stock": 0,
     "item_has_post": false,
-    "discount_stock": 251,
+    "discount_stock": 229,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 251,
+    "normal_stock": 229,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -268,8 +267,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "2TB",
-        "promotionid": 1265692054,
-        "price": 36500000,
+        "promotionid": 121876,
+        "price": 35500000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -281,7 +280,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 70,
+        "normal_stock": 48,
         "extinfo": {
           "tier_index": [
             1
@@ -290,7 +289,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 70,
+        "stock": 48,
         "has_gimmick_tag": false
       },
       {
@@ -328,8 +327,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "4TB",
-        "promotionid": 1265692054,
-        "price": 54900000,
+        "promotionid": 121876,
+        "price": 53900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
