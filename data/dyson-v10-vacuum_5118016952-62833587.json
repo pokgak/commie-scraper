@@ -4,7 +4,7 @@
     "shopid": 62833587,
     "userid": 0,
     "price_max_before_discount": 299900000,
-    "has_lowest_price_guarantee": true,
+    "has_lowest_price_guarantee": false,
     "price_before_discount": 299900000,
     "price_min_before_discount": 299900000,
     "exclusive_price_info": null,
@@ -12,7 +12,7 @@
     "price_min": 257900000,
     "price_max": 257900000,
     "price": 257900000,
-    "stock": 29,
+    "stock": 61,
     "discount": "14%",
     "historical_sold": 171,
     "sold": 23,
@@ -134,12 +134,12 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 33,
+    "other_stock": 0,
     "item_has_post": false,
-    "discount_stock": 29,
-    "current_promotion_has_reserve_stock": true,
-    "current_promotion_reserved_stock": 29,
-    "normal_stock": 33,
+    "discount_stock": 61,
+    "current_promotion_has_reserve_stock": false,
+    "current_promotion_reserved_stock": 0,
+    "normal_stock": 61,
     "brand_id": 1801048,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -155,13 +155,13 @@
       {
         "itemid": 5118016952,
         "status": 1,
-        "current_promotion_reserved_stock": 29,
+        "current_promotion_reserved_stock": 0,
         "name": "",
-        "promotionid": 2024694776,
+        "promotionid": 120449,
         "price": 257900000,
         "price_stocks": [
           {
-            "allocated_stock": 30,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -169,8 +169,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 33,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 61,
         "extinfo": {
           "tier_index": [
             0
@@ -179,7 +179,7 @@
         },
         "price_before_discount": 299900000,
         "modelid": 32075683955,
-        "stock": 29,
+        "stock": 61,
         "has_gimmick_tag": false
       }
     ],
@@ -208,22 +208,7 @@
     "presale_info": null,
     "is_cc_installment_payment_eligible": true,
     "is_non_cc_installment_payment_eligible": false,
-    "flash_sale": {
-      "flash_sale_type": 0,
-      "extra_discount_info": null,
-      "promotionid": 2024694776,
-      "start_time": 1633852800,
-      "end_time": 1633867200,
-      "promo_images": [
-        "2fdbd407929f208543db665929344479"
-      ],
-      "price": 257900000,
-      "flash_sale_stock": 30,
-      "stock": 29,
-      "hidden_price_display": null,
-      "promo_overlay_image": null,
-      "price_before_discount": 299900000
-    },
+    "flash_sale": null,
     "upcoming_flash_sale": null,
     "deep_discount": {
       "promotion": {
@@ -232,7 +217,7 @@
         "start_time": 1633867200,
         "end_time": 1633881540,
         "price_before_discount": 299900000,
-        "promotion_price": null,
+        "promotion_price": 257900000,
         "deep_discount_sub_type": 1,
         "user_eligibility": 1
       },
@@ -252,7 +237,7 @@
       },
       "hide_atc_and_direct_buy_now": false,
       "hide_skin": false,
-      "show_deep_discount_banner": false
+      "show_deep_discount_banner": true
     },
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
