@@ -9,15 +9,15 @@
     "price_min_before_discount": 299900000,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 257900000,
-    "price_max": 257900000,
-    "price": 257900000,
-    "stock": 34,
-    "discount": "14%",
+    "price_min": 264900000,
+    "price_max": 264900000,
+    "price": 264900000,
+    "stock": 33,
+    "discount": "12%",
     "historical_sold": 171,
     "sold": 23,
-    "show_discount": 14,
-    "raw_discount": 14,
+    "show_discount": 12,
+    "raw_discount": 12,
     "min_purchase_limit": 0,
     "overall_purchase_limit": {
       "order_max_purchase_limit": 0,
@@ -62,7 +62,7 @@
     ],
     "attributes": null,
     "liked": false,
-    "liked_count": 486,
+    "liked_count": 487,
     "cmt_count": 95,
     "flag": 655360,
     "shopee_verified": false,
@@ -136,10 +136,10 @@
     ],
     "other_stock": 0,
     "item_has_post": false,
-    "discount_stock": 34,
+    "discount_stock": 33,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 34,
+    "normal_stock": 33,
     "brand_id": 1801048,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -157,8 +157,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "",
-        "promotionid": 120444,
-        "price": 257900000,
+        "promotionid": 1286460982,
+        "price": 264900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -170,7 +170,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 34,
+        "normal_stock": 33,
         "extinfo": {
           "tier_index": [
             0
@@ -179,7 +179,7 @@
         },
         "price_before_discount": 299900000,
         "modelid": 32075683955,
-        "stock": 34,
+        "stock": 33,
         "has_gimmick_tag": false
       }
     ],
@@ -209,15 +209,30 @@
     "is_cc_installment_payment_eligible": true,
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
-    "upcoming_flash_sale": null,
+    "upcoming_flash_sale": {
+      "flash_sale_type": 0,
+      "extra_discount_info": null,
+      "promotionid": 2024694776,
+      "start_time": 1633852800,
+      "end_time": 1633867200,
+      "promo_images": [
+        "2fdbd407929f208543db665929344479"
+      ],
+      "price": null,
+      "flash_sale_stock": null,
+      "stock": null,
+      "hidden_price_display": null,
+      "promo_overlay_image": null,
+      "price_before_discount": 299900000
+    },
     "deep_discount": {
       "promotion": {
-        "promotion_id": 120444,
+        "promotion_id": 120449,
         "sold_count": null,
-        "start_time": 1633838400,
-        "end_time": 1633845540,
+        "start_time": 1633867200,
+        "end_time": 1633881540,
         "price_before_discount": 299900000,
-        "promotion_price": 257900000,
+        "promotion_price": null,
         "deep_discount_sub_type": 1,
         "user_eligibility": 1
       },
@@ -225,19 +240,19 @@
         "mobile": {
           "font_color": "#ffffff",
           "background_image": "7710db93bb35ac75dfe0ba159b7d6116",
-          "pre_hype_text": "Get this at <strong>RM2,579.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12PM-2PM!\n",
+          "pre_hype_text": "Get this at <strong>RM2,579.00 </strong>on <strong>{{promotion_start_date}}</strong> from 8PM-12AM!\n",
           "text_left_offset": 20
         },
         "pc": {
           "font_color": "#ffffff",
           "background_image": "9af4e0381db1c22f91d2f4844541cc64",
-          "pre_hype_text": "Get this at <strong>RM2,579.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12PM-2PM!\n",
+          "pre_hype_text": "Get this at <strong>RM2,579.00 </strong>on <strong>{{promotion_start_date}}</strong> from 8PM-12AM!\n",
           "text_left_offset": 15
         }
       },
       "hide_atc_and_direct_buy_now": false,
       "hide_skin": false,
-      "show_deep_discount_banner": true
+      "show_deep_discount_banner": false
     },
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
