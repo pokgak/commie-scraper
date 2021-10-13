@@ -475,7 +475,13 @@
         "has_gimmick_tag": false
       }
     ],
-    "spl_info": null,
+    "spl_info": {
+      "installment_info": null,
+      "user_credit_info": null,
+      "channel_id": null,
+      "show_spl": false,
+      "show_spl_lite": false
+    },
     "preview_info": null,
     "fe_categories": [
       {
