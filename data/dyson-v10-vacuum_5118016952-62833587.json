@@ -52,18 +52,17 @@
       ]
     },
     "label_ids": [
-      1000027,
       1000084,
       1000101,
-      1000114,
+      1000027,
       1004731,
       1007550,
-      1009473,
-      1009474
+      1009474,
+      1009473
     ],
     "attributes": null,
     "liked": false,
-    "liked_count": 489,
+    "liked_count": 488,
     "cmt_count": 96,
     "flag": 655360,
     "shopee_verified": false,
