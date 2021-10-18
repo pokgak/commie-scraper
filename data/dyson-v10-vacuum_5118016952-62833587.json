@@ -213,7 +213,22 @@
     "is_cc_installment_payment_eligible": true,
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
-    "upcoming_flash_sale": null,
+    "upcoming_flash_sale": {
+      "flash_sale_type": 0,
+      "extra_discount_info": null,
+      "promotionid": 2026699345,
+      "start_time": 1634533200,
+      "end_time": 1634536800,
+      "promo_images": [
+        "2fdbd407929f208543db665929344479"
+      ],
+      "price": null,
+      "flash_sale_stock": null,
+      "stock": null,
+      "hidden_price_display": null,
+      "promo_overlay_image": null,
+      "price_before_discount": 299900000
+    },
     "deep_discount": null,
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
