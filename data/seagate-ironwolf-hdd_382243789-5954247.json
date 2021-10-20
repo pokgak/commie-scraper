@@ -149,6 +149,9 @@
     "group_buy_info": null,
     "welcome_package_type": 0,
     "welcome_package_info": null,
+    "tax_code": null,
+    "invoice_option": null,
+    "complaint_policy": null,
     "images": [
       "083ced7c99162d64f1e39f94ce9120d0",
       "23a29d4a97f5acf751b5ec117a4f3c17",

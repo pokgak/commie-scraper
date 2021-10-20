@@ -64,7 +64,7 @@
     ],
     "attributes": null,
     "liked": false,
-    "liked_count": 492,
+    "liked_count": 491,
     "cmt_count": 106,
     "flag": 655360,
     "shopee_verified": false,
@@ -91,6 +91,9 @@
     "group_buy_info": null,
     "welcome_package_type": 0,
     "welcome_package_info": null,
+    "tax_code": null,
+    "invoice_option": null,
+    "complaint_policy": null,
     "images": [
       "2fdbd407929f208543db665929344479",
       "b8e5267230b69a98493643bb81b631af",
