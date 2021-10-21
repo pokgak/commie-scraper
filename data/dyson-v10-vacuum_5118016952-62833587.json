@@ -67,7 +67,7 @@
     "liked": false,
     "liked_count": 491,
     "cmt_count": 106,
-    "flag": 655360,
+    "flag": 720896,
     "shopee_verified": false,
     "is_adult": false,
     "is_preferred_plus_seller": false,
@@ -118,7 +118,7 @@
     "badge_icon_type": 0,
     "show_free_shipping": false,
     "shipping_icon_type": 0,
-    "cod_flag": 0,
+    "cod_flag": 1,
     "show_original_guarantee": true,
     "categories": [
       {
