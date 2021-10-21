@@ -14,7 +14,7 @@
     "price": 28500000,
     "stock": 54,
     "discount": "43%",
-    "historical_sold": 1483,
+    "historical_sold": 1484,
     "sold": 64,
     "show_discount": 43,
     "raw_discount": 43,
@@ -70,8 +70,8 @@
       1000059,
       1009473,
       1003234,
-      10,
-      1005053
+      1005053,
+      10
     ],
     "attributes": [
       {
