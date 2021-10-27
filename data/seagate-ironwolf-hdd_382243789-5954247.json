@@ -259,7 +259,9 @@
           "tier_index": [
             0
           ],
-          "group_buy_info": null
+          "group_buy_info": null,
+          "is_pre_order": false,
+          "estimated_days": 2
         },
         "price_before_discount": 49900000,
         "modelid": 13140538210,
@@ -289,7 +291,9 @@
           "tier_index": [
             1
           ],
-          "group_buy_info": null
+          "group_buy_info": null,
+          "is_pre_order": false,
+          "estimated_days": 2
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
@@ -319,7 +323,9 @@
           "tier_index": [
             2
           ],
-          "group_buy_info": null
+          "group_buy_info": null,
+          "is_pre_order": false,
+          "estimated_days": 2
         },
         "price_before_discount": 69900000,
         "modelid": 13140538212,
@@ -349,7 +355,9 @@
           "tier_index": [
             3
           ],
-          "group_buy_info": null
+          "group_buy_info": null,
+          "is_pre_order": false,
+          "estimated_days": 2
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
@@ -379,7 +387,9 @@
           "tier_index": [
             4
           ],
-          "group_buy_info": null
+          "group_buy_info": null,
+          "is_pre_order": false,
+          "estimated_days": 2
         },
         "price_before_discount": 129900000,
         "modelid": 13140538214,
@@ -409,7 +419,9 @@
           "tier_index": [
             5
           ],
-          "group_buy_info": null
+          "group_buy_info": null,
+          "is_pre_order": false,
+          "estimated_days": 2
         },
         "price_before_discount": 199900000,
         "modelid": 13140538215,
@@ -439,7 +451,9 @@
           "tier_index": [
             6
           ],
-          "group_buy_info": null
+          "group_buy_info": null,
+          "is_pre_order": false,
+          "estimated_days": 2
         },
         "price_before_discount": 234900000,
         "modelid": 13140538216,
@@ -469,7 +483,9 @@
           "tier_index": [
             7
           ],
-          "group_buy_info": null
+          "group_buy_info": null,
+          "is_pre_order": false,
+          "estimated_days": 2
         },
         "price_before_discount": 269900000,
         "modelid": 13140538217,
@@ -482,7 +498,7 @@
       "user_credit_info": null,
       "channel_id": null,
       "show_spl": false,
-      "show_spl_lite": false
+      "show_spl_lite": true
     },
     "preview_info": null,
     "fe_categories": [

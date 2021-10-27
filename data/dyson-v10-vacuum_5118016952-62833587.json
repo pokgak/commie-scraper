@@ -179,7 +179,9 @@
           "tier_index": [
             0
           ],
-          "group_buy_info": null
+          "group_buy_info": null,
+          "is_pre_order": false,
+          "estimated_days": 2
         },
         "price_before_discount": 299900000,
         "modelid": 32075683955,
@@ -192,7 +194,7 @@
       "user_credit_info": null,
       "channel_id": null,
       "show_spl": false,
-      "show_spl_lite": false
+      "show_spl_lite": true
     },
     "preview_info": null,
     "fe_categories": [
