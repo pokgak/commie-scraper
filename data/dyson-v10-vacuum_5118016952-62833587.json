@@ -3,21 +3,21 @@
     "itemid": 5118016952,
     "shopid": 62833587,
     "userid": 0,
-    "price_max_before_discount": 299900000,
-    "has_lowest_price_guarantee": true,
-    "price_before_discount": 299900000,
-    "price_min_before_discount": 299900000,
+    "price_max_before_discount": -1,
+    "has_lowest_price_guarantee": false,
+    "price_before_discount": 0,
+    "price_min_before_discount": -1,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 249900000,
-    "price_max": 249900000,
-    "price": 249900000,
+    "price_min": 299900000,
+    "price_max": 299900000,
+    "price": 299900000,
     "stock": 56,
-    "discount": "17%",
-    "historical_sold": 200,
+    "discount": null,
+    "historical_sold": 201,
     "sold": 28,
-    "show_discount": 17,
-    "raw_discount": 17,
+    "show_discount": 0,
+    "raw_discount": 0,
     "min_purchase_limit": 0,
     "overall_purchase_limit": {
       "order_max_purchase_limit": 0,
@@ -58,8 +58,8 @@
       1004731,
       1007550,
       1009474,
-      10,
-      1009473
+      1009473,
+      10
     ],
     "attributes": null,
     "liked": false,
@@ -138,9 +138,9 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 0,
+    "other_stock": 56,
     "item_has_post": false,
-    "discount_stock": 56,
+    "discount_stock": 0,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
     "normal_stock": 56,
@@ -161,13 +161,9 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "",
-        "promotionid": 123099,
-        "price": 249900000,
+        "promotionid": 0,
+        "price": 299900000,
         "price_stocks": [
-          {
-            "allocated_stock": 0,
-            "stock_breakdown_by_location": null
-          },
           {
             "allocated_stock": null,
             "stock_breakdown_by_location": null
@@ -183,7 +179,7 @@
           "is_pre_order": false,
           "estimated_days": 2
         },
-        "price_before_discount": 299900000,
+        "price_before_discount": 0,
         "modelid": 32075683955,
         "stock": 56,
         "has_gimmick_tag": false
