@@ -4,7 +4,7 @@
     "shopid": 62833587,
     "userid": 0,
     "price_max_before_discount": -1,
-    "has_lowest_price_guarantee": false,
+    "has_lowest_price_guarantee": true,
     "price_before_discount": 0,
     "price_min_before_discount": -1,
     "exclusive_price_info": null,
