@@ -12,7 +12,7 @@
     "price_min": 27800000,
     "price_max": 189900000,
     "price": 27800000,
-    "stock": 68,
+    "stock": 67,
     "discount": "44%",
     "historical_sold": 1496,
     "sold": 57,
@@ -200,9 +200,9 @@
     ],
     "other_stock": 162,
     "item_has_post": true,
-    "discount_stock": 68,
+    "discount_stock": 67,
     "current_promotion_has_reserve_stock": true,
-    "current_promotion_reserved_stock": 40,
+    "current_promotion_reserved_stock": 39,
     "normal_stock": 190,
     "brand_id": 1146997,
     "is_alcohol_product": false,
@@ -400,7 +400,7 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 9,
         "name": "8TB",
         "promotionid": 123240,
         "price": 119900000,
@@ -426,7 +426,7 @@
         },
         "price_before_discount": 199900000,
         "modelid": 13140538215,
-        "stock": 10,
+        "stock": 9,
         "has_gimmick_tag": false
       },
       {
