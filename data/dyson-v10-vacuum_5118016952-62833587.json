@@ -14,7 +14,7 @@
     "price": 299900000,
     "stock": 56,
     "discount": null,
-    "historical_sold": 207,
+    "historical_sold": 208,
     "sold": 29,
     "show_discount": 0,
     "raw_discount": 0,
@@ -41,14 +41,14 @@
     "reference_item_id": "",
     "brand": "Dyson",
     "item_rating": {
-      "rating_star": 4.934579439252336,
+      "rating_star": 4.935185185185185,
       "rating_count": [
-        108,
+        109,
         2,
         0,
         0,
         3,
-        103
+        104
       ]
     },
     "label_ids": [
@@ -64,7 +64,7 @@
     "attributes": null,
     "liked": false,
     "liked_count": 503,
-    "cmt_count": 108,
+    "cmt_count": 109,
     "flag": 720896,
     "shopee_verified": false,
     "is_adult": false,
