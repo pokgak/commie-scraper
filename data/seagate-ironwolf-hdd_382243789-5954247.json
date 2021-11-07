@@ -12,7 +12,7 @@
     "price_min": 27800000,
     "price_max": 189900000,
     "price": 27800000,
-    "stock": 151,
+    "stock": 152,
     "discount": "44%",
     "historical_sold": 1509,
     "sold": 58,
@@ -41,14 +41,14 @@
     "reference_item_id": "",
     "brand": "Seagate",
     "item_rating": {
-      "rating_star": 4.862,
+      "rating_star": 4.862275449101796,
       "rating_count": [
-        501,
+        502,
         7,
         4,
         9,
         15,
-        466
+        467
       ]
     },
     "label_ids": [
@@ -108,7 +108,7 @@
     ],
     "liked": false,
     "liked_count": 557,
-    "cmt_count": 500,
+    "cmt_count": 501,
     "flag": 655362,
     "shopee_verified": false,
     "is_adult": false,
@@ -200,10 +200,10 @@
     ],
     "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 151,
+    "discount_stock": 152,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 151,
+    "normal_stock": 152,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -447,7 +447,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 2,
+        "normal_stock": 3,
         "extinfo": {
           "tier_index": [
             6
@@ -458,7 +458,7 @@
         },
         "price_before_discount": 234900000,
         "modelid": 13140538216,
-        "stock": 2,
+        "stock": 3,
         "has_gimmick_tag": false
       },
       {
