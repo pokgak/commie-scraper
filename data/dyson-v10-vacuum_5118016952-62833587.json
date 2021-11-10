@@ -12,7 +12,7 @@
     "price_min": 299900000,
     "price_max": 299900000,
     "price": 299900000,
-    "stock": 56,
+    "stock": 5,
     "discount": null,
     "historical_sold": 213,
     "sold": 7,
@@ -61,7 +61,16 @@
       1009474,
       1009473
     ],
-    "attributes": null,
+    "attributes": [
+      {
+        "name": "Vacuum Cleaner & Floor Care Type",
+        "value": "Stick Vacuums",
+        "id": 100367,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      }
+    ],
     "liked": false,
     "liked_count": 522,
     "cmt_count": 110,
@@ -138,12 +147,12 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 56,
+    "other_stock": 5,
     "item_has_post": false,
     "discount_stock": 0,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 56,
+    "normal_stock": 5,
     "brand_id": 1801048,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -170,7 +179,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 56,
+        "normal_stock": 5,
         "extinfo": {
           "tier_index": [
             0
@@ -181,7 +190,7 @@
         },
         "price_before_discount": 0,
         "modelid": 32075683955,
-        "stock": 56,
+        "stock": 5,
         "has_gimmick_tag": false
       }
     ],
@@ -207,8 +216,8 @@
         "is_default_subcat": false
       },
       {
-        "catid": 11000895,
-        "display_name": "Parts & Accessories",
+        "catid": 11000893,
+        "display_name": "Vacuum Cleaner",
         "no_sub": true,
         "is_default_subcat": false
       }
