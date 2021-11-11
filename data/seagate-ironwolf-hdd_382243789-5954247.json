@@ -9,15 +9,15 @@
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 27800000,
-    "price_max": 152500000,
-    "price": 27800000,
+    "price_min": 27300000,
+    "price_max": 152900000,
+    "price": 27300000,
     "stock": 83,
-    "discount": "44%",
+    "discount": "45%",
     "historical_sold": 1515,
     "sold": 33,
-    "show_discount": 44,
-    "raw_discount": 44,
+    "show_discount": 45,
+    "raw_discount": 45,
     "min_purchase_limit": 0,
     "overall_purchase_limit": {
       "order_max_purchase_limit": 0,
@@ -241,7 +241,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "1TB",
         "promotionid": 1265692054,
-        "price": 27800000,
+        "price": 27300000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -273,7 +273,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "2TB",
         "promotionid": 1265692054,
-        "price": 36900000,
+        "price": 36500000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -337,7 +337,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "4TB",
         "promotionid": 1265692054,
-        "price": 54800000,
+        "price": 53900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -369,7 +369,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "6TB",
         "promotionid": 1265692054,
-        "price": 85900000,
+        "price": 84900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -401,7 +401,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "8TB",
         "promotionid": 1265692054,
-        "price": 119900000,
+        "price": 116900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -433,7 +433,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "10TB",
         "promotionid": 1265692054,
-        "price": 152500000,
+        "price": 152900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
