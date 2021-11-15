@@ -12,9 +12,9 @@
     "price_min": 27300000,
     "price_max": 152900000,
     "price": 27300000,
-    "stock": 42,
+    "stock": 80,
     "discount": "45%",
-    "historical_sold": 1522,
+    "historical_sold": 1523,
     "sold": 27,
     "show_discount": 45,
     "raw_discount": 45,
@@ -41,14 +41,14 @@
     "reference_item_id": "",
     "brand": "Seagate",
     "item_rating": {
-      "rating_star": 4.863366336633663,
+      "rating_star": 4.863636363636363,
       "rating_count": [
-        506,
+        507,
         7,
         4,
         9,
         15,
-        471
+        472
       ]
     },
     "label_ids": [
@@ -106,7 +106,7 @@
     ],
     "liked": false,
     "liked_count": 560,
-    "cmt_count": 505,
+    "cmt_count": 506,
     "flag": 655362,
     "shopee_verified": false,
     "is_adult": false,
@@ -198,10 +198,10 @@
     ],
     "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 42,
+    "discount_stock": 80,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 42,
+    "normal_stock": 80,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -253,7 +253,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 8,
+        "normal_stock": 18,
         "extinfo": {
           "tier_index": [
             0
@@ -264,7 +264,7 @@
         },
         "price_before_discount": 49900000,
         "modelid": 13140538210,
-        "stock": 8,
+        "stock": 18,
         "has_gimmick_tag": false
       },
       {
@@ -285,7 +285,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 0,
+        "normal_stock": 10,
         "extinfo": {
           "tier_index": [
             1
@@ -296,7 +296,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 0,
+        "stock": 10,
         "has_gimmick_tag": false
       },
       {
@@ -349,7 +349,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 19,
+        "normal_stock": 27,
         "extinfo": {
           "tier_index": [
             3
@@ -360,7 +360,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 19,
+        "stock": 27,
         "has_gimmick_tag": false
       },
       {
@@ -413,7 +413,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 9,
+        "normal_stock": 19,
         "extinfo": {
           "tier_index": [
             5
@@ -424,7 +424,7 @@
         },
         "price_before_discount": 199900000,
         "modelid": 13140538215,
-        "stock": 9,
+        "stock": 19,
         "has_gimmick_tag": false
       },
       {
