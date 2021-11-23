@@ -4,7 +4,7 @@
     "shopid": 5954247,
     "userid": 0,
     "price_max_before_discount": 269900000,
-    "has_lowest_price_guarantee": true,
+    "has_lowest_price_guarantee": false,
     "price_before_discount": 49900000,
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
@@ -12,7 +12,7 @@
     "price_min": 26900000,
     "price_max": 188300000,
     "price": 26900000,
-    "stock": 62,
+    "stock": 71,
     "discount": "46%",
     "historical_sold": 1532,
     "sold": 37,
@@ -107,7 +107,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 572,
+    "liked_count": 573,
     "cmt_count": 509,
     "flag": 655362,
     "shopee_verified": false,
@@ -198,11 +198,11 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 29,
+    "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 62,
-    "current_promotion_has_reserve_stock": true,
-    "current_promotion_reserved_stock": 20,
+    "discount_stock": 71,
+    "current_promotion_has_reserve_stock": false,
+    "current_promotion_reserved_stock": 0,
     "normal_stock": 71,
     "brand_id": 1146997,
     "is_alcohol_product": false,
@@ -336,13 +336,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 20,
+        "current_promotion_reserved_stock": 0,
         "name": "4TB",
-        "promotionid": 2030703168,
-        "price": 54500000,
+        "promotionid": 1265692054,
+        "price": 54800000,
         "price_stocks": [
           {
-            "allocated_stock": 20,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -350,7 +350,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
+        "current_promotion_has_reserve_stock": false,
         "normal_stock": 29,
         "extinfo": {
           "tier_index": [
@@ -362,7 +362,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 20,
+        "stock": 29,
         "has_gimmick_tag": false
       },
       {
@@ -525,22 +525,7 @@
     "presale_info": null,
     "is_cc_installment_payment_eligible": false,
     "is_non_cc_installment_payment_eligible": false,
-    "flash_sale": {
-      "flash_sale_type": 2,
-      "extra_discount_info": null,
-      "promotionid": 2030703168,
-      "start_time": 1637654400,
-      "end_time": 1637668800,
-      "promo_images": [
-        "bf628aafe223fb197a5582b6677d61a9"
-      ],
-      "price": 54500000,
-      "flash_sale_stock": 20,
-      "stock": 20,
-      "hidden_price_display": null,
-      "promo_overlay_image": null,
-      "price_before_discount": 79900000
-    },
+    "flash_sale": null,
     "upcoming_flash_sale": null,
     "deep_discount": null,
     "has_low_fulfillment_rate": false,
