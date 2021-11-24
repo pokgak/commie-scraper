@@ -230,6 +230,7 @@
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
     "makeups": null,
-    "shop_vouchers": null
+    "shop_vouchers": null,
+    "global_sold": null
   }
 ]

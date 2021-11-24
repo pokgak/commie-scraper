@@ -69,9 +69,9 @@
       1002913,
       1010309,
       1000059,
+      1010308,
       10,
-      1005053,
-      1010308
+      1005053
     ],
     "attributes": [
       {
@@ -532,6 +532,7 @@
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
     "makeups": null,
-    "shop_vouchers": null
+    "shop_vouchers": null,
+    "global_sold": null
   }
 ]
