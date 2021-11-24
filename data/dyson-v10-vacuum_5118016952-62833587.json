@@ -57,14 +57,13 @@
       1000027,
       1004731,
       1007550,
-      1000114,
       1010309,
       1010308
     ],
     "attributes": [
       {
-        "name": "Vacuum Cleaner & Floor Care Type",
-        "value": "Stick Vacuums",
+        "name": "Pembersih Vakum & Jenis Penjagaan Lantai",
+        "value": "Vakum Stick",
         "id": 100367,
         "is_timestamp": false,
         "brand_option": null,
@@ -72,7 +71,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 536,
+    "liked_count": 537,
     "cmt_count": 113,
     "flag": 720896,
     "shopee_verified": false,
