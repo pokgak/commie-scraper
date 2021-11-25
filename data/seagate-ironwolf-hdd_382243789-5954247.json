@@ -12,7 +12,7 @@
     "price_min": 26900000,
     "price_max": 188300000,
     "price": 26900000,
-    "stock": 49,
+    "stock": 47,
     "discount": "46%",
     "historical_sold": 1534,
     "sold": 43,
@@ -199,9 +199,9 @@
     ],
     "other_stock": 67,
     "item_has_post": true,
-    "discount_stock": 49,
+    "discount_stock": 47,
     "current_promotion_has_reserve_stock": true,
-    "current_promotion_reserved_stock": 39,
+    "current_promotion_reserved_stock": 37,
     "normal_stock": 77,
     "brand_id": 1146997,
     "is_alcohol_product": false,
@@ -335,7 +335,7 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 10,
+        "current_promotion_reserved_stock": 8,
         "name": "4TB",
         "promotionid": 130531,
         "price": 54900000,
@@ -361,7 +361,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 10,
+        "stock": 8,
         "has_gimmick_tag": false
       },
       {
