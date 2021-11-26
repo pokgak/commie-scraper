@@ -73,31 +73,31 @@
     ],
     "attributes": [
       {
-        "name": "Tempoh Waranti",
-        "value": "3 Tahun",
+        "name": "Warranty Duration",
+        "value": "3 Years",
         "id": 100121,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Jenis Waranti",
-        "value": "Waranti Pengilang",
+        "name": "Warranty Type",
+        "value": "Manufacturer Warranty",
         "id": 100370,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Dalaman/Luaran",
-        "value": "Dalaman",
+        "name": "Internal/External",
+        "value": "Internal",
         "id": 100418,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Kapasiti Penyimpanan",
+        "name": "Storage Capacity",
         "value": "12TB",
         "id": 100465,
         "is_timestamp": false,
@@ -273,8 +273,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "2TB",
-        "promotionid": 131333,
-        "price": 35500000,
+        "promotionid": 1265692054,
+        "price": 35900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -337,8 +337,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "4TB",
-        "promotionid": 131333,
-        "price": 53400000,
+        "promotionid": 1265692054,
+        "price": 54800000,
         "price_stocks": [
           {
             "allocated_stock": 0,
