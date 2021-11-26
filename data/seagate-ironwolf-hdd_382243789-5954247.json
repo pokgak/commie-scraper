@@ -14,7 +14,7 @@
     "price": 26900000,
     "stock": 71,
     "discount": "46%",
-    "historical_sold": 1544,
+    "historical_sold": 1545,
     "sold": 49,
     "show_discount": 46,
     "raw_discount": 46,
@@ -41,12 +41,12 @@
     "reference_item_id": "",
     "brand": "Seagate",
     "item_rating": {
-      "rating_star": 4.864440078585462,
+      "rating_star": 4.86078431372549,
       "rating_count": [
-        510,
+        511,
         7,
         4,
-        9,
+        10,
         15,
         475
       ]
@@ -73,30 +73,6 @@
     ],
     "attributes": [
       {
-        "name": "Warranty Duration",
-        "value": "3 Years",
-        "id": 100121,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
-        "name": "Warranty Type",
-        "value": "Manufacturer Warranty",
-        "id": 100370,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
-        "name": "Internal/External",
-        "value": "Internal",
-        "id": 100418,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
         "name": "Storage Capacity",
         "value": "12TB",
         "id": 100465,
@@ -107,7 +83,7 @@
     ],
     "liked": false,
     "liked_count": 576,
-    "cmt_count": 509,
+    "cmt_count": 510,
     "flag": 655362,
     "shopee_verified": false,
     "is_adult": false,
