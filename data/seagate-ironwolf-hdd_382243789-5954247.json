@@ -12,7 +12,7 @@
     "price_min": 26900000,
     "price_max": 188300000,
     "price": 26900000,
-    "stock": 71,
+    "stock": 232,
     "discount": "46%",
     "historical_sold": 1545,
     "sold": 49,
@@ -199,10 +199,10 @@
     ],
     "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 71,
+    "discount_stock": 232,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 71,
+    "normal_stock": 232,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -254,7 +254,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 5,
+        "normal_stock": 16,
         "extinfo": {
           "tier_index": [
             0
@@ -265,7 +265,7 @@
         },
         "price_before_discount": 49900000,
         "modelid": 13140538210,
-        "stock": 5,
+        "stock": 16,
         "has_gimmick_tag": false
       },
       {
@@ -286,7 +286,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 8,
+        "normal_stock": 19,
         "extinfo": {
           "tier_index": [
             1
@@ -297,7 +297,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 8,
+        "stock": 19,
         "has_gimmick_tag": false
       },
       {
@@ -318,7 +318,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 1,
+        "normal_stock": 11,
         "extinfo": {
           "tier_index": [
             2
@@ -329,7 +329,7 @@
         },
         "price_before_discount": 69900000,
         "modelid": 13140538212,
-        "stock": 1,
+        "stock": 11,
         "has_gimmick_tag": false
       },
       {
@@ -350,7 +350,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 41,
+        "normal_stock": 141,
         "extinfo": {
           "tier_index": [
             3
@@ -361,7 +361,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 41,
+        "stock": 141,
         "has_gimmick_tag": false
       },
       {
@@ -382,7 +382,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 0,
+        "normal_stock": 10,
         "extinfo": {
           "tier_index": [
             4
@@ -393,7 +393,7 @@
         },
         "price_before_discount": 129900000,
         "modelid": 13140538214,
-        "stock": 0,
+        "stock": 10,
         "has_gimmick_tag": false
       },
       {
@@ -414,7 +414,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 12,
+        "normal_stock": 11,
         "extinfo": {
           "tier_index": [
             5
@@ -425,7 +425,7 @@
         },
         "price_before_discount": 199900000,
         "modelid": 13140538215,
-        "stock": 12,
+        "stock": 11,
         "has_gimmick_tag": false
       },
       {
@@ -446,7 +446,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 3,
+        "normal_stock": 13,
         "extinfo": {
           "tier_index": [
             6
@@ -457,7 +457,7 @@
         },
         "price_before_discount": 234900000,
         "modelid": 13140538216,
-        "stock": 3,
+        "stock": 13,
         "has_gimmick_tag": false
       },
       {
@@ -478,7 +478,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 1,
+        "normal_stock": 11,
         "extinfo": {
           "tier_index": [
             7
@@ -489,7 +489,7 @@
         },
         "price_before_discount": 269900000,
         "modelid": 13140538217,
-        "stock": 1,
+        "stock": 11,
         "has_gimmick_tag": false
       }
     ],
