@@ -73,31 +73,31 @@
     ],
     "attributes": [
       {
-        "name": "Warranty Duration",
-        "value": "3 Years",
+        "name": "\u8d28\u4fdd\u671f\u9650",
+        "value": "3\u5e74",
         "id": 100121,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Warranty Type",
-        "value": "Manufacturer Warranty",
+        "name": "\u4fdd\u4fee\u79cd\u7c7b",
+        "value": "\u5236\u9020\u5546\u4fdd\u4fee",
         "id": 100370,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Internal/External",
-        "value": "Internal",
+        "name": "\u5185\u7f6e/\u5916\u7f6e",
+        "value": "\u5185\u7f6e",
         "id": 100418,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Storage Capacity",
+        "name": "\u5b58\u50a8\u5bb9\u91cf",
         "value": "12TB",
         "id": 100465,
         "is_timestamp": false,
@@ -106,7 +106,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 578,
+    "liked_count": 580,
     "cmt_count": 512,
     "flag": 655362,
     "shopee_verified": false,
