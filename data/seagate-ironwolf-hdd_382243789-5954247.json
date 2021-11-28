@@ -14,7 +14,7 @@
     "price": 26900000,
     "stock": 230,
     "discount": "46%",
-    "historical_sold": 1548,
+    "historical_sold": 1549,
     "sold": 51,
     "show_discount": 46,
     "raw_discount": 46,
@@ -41,14 +41,14 @@
     "reference_item_id": "",
     "brand": "Seagate",
     "item_rating": {
-      "rating_star": 4.861328125,
+      "rating_star": 4.861598440545809,
       "rating_count": [
-        513,
+        514,
         7,
         4,
         10,
         15,
-        477
+        478
       ]
     },
     "label_ids": [
@@ -107,7 +107,7 @@
     ],
     "liked": false,
     "liked_count": 580,
-    "cmt_count": 512,
+    "cmt_count": 513,
     "flag": 655362,
     "shopee_verified": false,
     "is_adult": false,
