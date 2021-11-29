@@ -273,8 +273,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "2TB",
-        "promotionid": 131424,
-        "price": 35500000,
+        "promotionid": 1265692054,
+        "price": 35900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -337,8 +337,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "4TB",
-        "promotionid": 131424,
-        "price": 53400000,
+        "promotionid": 1265692054,
+        "price": 54800000,
         "price_stocks": [
           {
             "allocated_stock": 0,
