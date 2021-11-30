@@ -73,30 +73,6 @@
     ],
     "attributes": [
       {
-        "name": "Warranty Duration",
-        "value": "3 Years",
-        "id": 100121,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
-        "name": "Warranty Type",
-        "value": "Manufacturer Warranty",
-        "id": 100370,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
-        "name": "Internal/External",
-        "value": "Internal",
-        "id": 100418,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
         "name": "Storage Capacity",
         "value": "12TB",
         "id": 100465,
@@ -106,7 +82,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 580,
+    "liked_count": 579,
     "cmt_count": 513,
     "flag": 655362,
     "shopee_verified": false,
