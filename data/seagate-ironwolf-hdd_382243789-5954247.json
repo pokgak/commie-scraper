@@ -12,7 +12,7 @@
     "price_min": 26900000,
     "price_max": 188300000,
     "price": 26900000,
-    "stock": 221,
+    "stock": 191,
     "discount": "46%",
     "historical_sold": 1552,
     "sold": 53,
@@ -73,31 +73,31 @@
     ],
     "attributes": [
       {
-        "name": "Warranty Duration",
-        "value": "3 Years",
+        "name": "\u8d28\u4fdd\u671f\u9650",
+        "value": "3\u5e74",
         "id": 100121,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Warranty Type",
-        "value": "Manufacturer Warranty",
+        "name": "\u4fdd\u4fee\u79cd\u7c7b",
+        "value": "\u5236\u9020\u5546\u4fdd\u4fee",
         "id": 100370,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Internal/External",
-        "value": "Internal",
+        "name": "\u5185\u7f6e/\u5916\u7f6e",
+        "value": "\u5185\u7f6e",
         "id": 100418,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Storage Capacity",
+        "name": "\u5b58\u50a8\u5bb9\u91cf",
         "value": "12TB",
         "id": 100465,
         "is_timestamp": false,
@@ -199,10 +199,10 @@
     ],
     "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 221,
+    "discount_stock": 191,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 221,
+    "normal_stock": 191,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -254,7 +254,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 16,
+        "normal_stock": 6,
         "extinfo": {
           "tier_index": [
             0
@@ -265,7 +265,7 @@
         },
         "price_before_discount": 49900000,
         "modelid": 13140538210,
-        "stock": 16,
+        "stock": 6,
         "has_gimmick_tag": false
       },
       {
@@ -446,7 +446,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 13,
+        "normal_stock": 3,
         "extinfo": {
           "tier_index": [
             6
@@ -457,7 +457,7 @@
         },
         "price_before_discount": 234900000,
         "modelid": 13140538216,
-        "stock": 13,
+        "stock": 3,
         "has_gimmick_tag": false
       },
       {
@@ -478,7 +478,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 11,
+        "normal_stock": 1,
         "extinfo": {
           "tier_index": [
             7
@@ -489,7 +489,7 @@
         },
         "price_before_discount": 269900000,
         "modelid": 13140538217,
-        "stock": 11,
+        "stock": 1,
         "has_gimmick_tag": false
       }
     ],
