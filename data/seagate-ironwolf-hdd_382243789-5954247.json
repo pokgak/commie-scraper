@@ -12,7 +12,7 @@
     "price_min": 26900000,
     "price_max": 188300000,
     "price": 26900000,
-    "stock": 189,
+    "stock": 187,
     "discount": "46%",
     "historical_sold": 1552,
     "sold": 53,
@@ -73,31 +73,31 @@
     ],
     "attributes": [
       {
-        "name": "\u8d28\u4fdd\u671f\u9650",
-        "value": "3\u5e74",
+        "name": "Warranty Duration",
+        "value": "3 Years",
         "id": 100121,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "\u4fdd\u4fee\u79cd\u7c7b",
-        "value": "\u5236\u9020\u5546\u4fdd\u4fee",
+        "name": "Warranty Type",
+        "value": "Manufacturer Warranty",
         "id": 100370,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "\u5185\u7f6e/\u5916\u7f6e",
-        "value": "\u5185\u7f6e",
+        "name": "Internal/External",
+        "value": "Internal",
         "id": 100418,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "\u5b58\u50a8\u5bb9\u91cf",
+        "name": "Storage Capacity",
         "value": "12TB",
         "id": 100465,
         "is_timestamp": false,
@@ -199,10 +199,10 @@
     ],
     "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 189,
+    "discount_stock": 187,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 189,
+    "normal_stock": 187,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -350,7 +350,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 138,
+        "normal_stock": 136,
         "extinfo": {
           "tier_index": [
             3
@@ -361,7 +361,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 138,
+        "stock": 136,
         "has_gimmick_tag": false
       },
       {
