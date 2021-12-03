@@ -12,7 +12,7 @@
     "price_min": 26900000,
     "price_max": 188300000,
     "price": 26900000,
-    "stock": 226,
+    "stock": 139,
     "discount": "46%",
     "historical_sold": 1558,
     "sold": 50,
@@ -76,31 +76,31 @@
     ],
     "attributes": [
       {
-        "name": "Warranty Duration",
-        "value": "3 Years",
+        "name": "Tempoh Waranti",
+        "value": "3 Tahun",
         "id": 100121,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Warranty Type",
-        "value": "Manufacturer Warranty",
+        "name": "Jenis Waranti",
+        "value": "Waranti Pengilang",
         "id": 100370,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Internal/External",
-        "value": "Internal",
+        "name": "Dalaman/Luaran",
+        "value": "Dalaman",
         "id": 100418,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Storage Capacity",
+        "name": "Kapasiti Penyimpanan",
         "value": "12TB",
         "id": 100465,
         "is_timestamp": false,
@@ -202,10 +202,10 @@
     ],
     "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 226,
+    "discount_stock": 139,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 226,
+    "normal_stock": 139,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -353,7 +353,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 113,
+        "normal_stock": 25,
         "extinfo": {
           "tier_index": [
             3
@@ -364,7 +364,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 113,
+        "stock": 25,
         "has_gimmick_tag": false
       },
       {
@@ -417,7 +417,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 14,
+        "normal_stock": 15,
         "extinfo": {
           "tier_index": [
             5
@@ -428,7 +428,7 @@
         },
         "price_before_discount": 199900000,
         "modelid": 13140538215,
-        "stock": 14,
+        "stock": 15,
         "has_gimmick_tag": false
       },
       {
