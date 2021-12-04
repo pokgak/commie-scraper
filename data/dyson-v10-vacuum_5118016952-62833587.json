@@ -64,8 +64,8 @@
     ],
     "attributes": [
       {
-        "name": "Pembersih Vakum & Jenis Penjagaan Lantai",
-        "value": "Vakum Stick",
+        "name": "Vacuum Cleaner & Floor Care Type",
+        "value": "Stick Vacuums",
         "id": 100367,
         "is_timestamp": false,
         "brand_option": null,
@@ -73,7 +73,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 540,
+    "liked_count": 539,
     "cmt_count": 113,
     "flag": 720896,
     "shopee_verified": false,
