@@ -75,31 +75,7 @@
     ],
     "attributes": [
       {
-        "name": "Tempoh Waranti",
-        "value": "3 Tahun",
-        "id": 100121,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
-        "name": "Jenis Waranti",
-        "value": "Waranti Pengilang",
-        "id": 100370,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
-        "name": "Dalaman/Luaran",
-        "value": "Dalaman",
-        "id": 100418,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
-        "name": "Kapasiti Penyimpanan",
+        "name": "Storage Capacity",
         "value": "12TB",
         "id": 100465,
         "is_timestamp": false,
@@ -108,7 +84,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 582,
+    "liked_count": 583,
     "cmt_count": 513,
     "flag": 655362,
     "shopee_verified": false,
