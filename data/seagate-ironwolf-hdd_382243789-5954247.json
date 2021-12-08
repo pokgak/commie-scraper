@@ -10,9 +10,9 @@
     "exclusive_price_info": null,
     "hidden_price_display": null,
     "price_min": 26900000,
-    "price_max": 188300000,
+    "price_max": 189900000,
     "price": 26900000,
-    "stock": 69,
+    "stock": 38,
     "discount": "46%",
     "historical_sold": 1563,
     "sold": 43,
@@ -74,31 +74,31 @@
     ],
     "attributes": [
       {
-        "name": "Tempoh Waranti",
-        "value": "3 Tahun",
+        "name": "Warranty Duration",
+        "value": "3 Years",
         "id": 100121,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Jenis Waranti",
-        "value": "Waranti Pengilang",
+        "name": "Warranty Type",
+        "value": "Manufacturer Warranty",
         "id": 100370,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Dalaman/Luaran",
-        "value": "Dalaman",
+        "name": "Internal/External",
+        "value": "Internal",
         "id": 100418,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Kapasiti Penyimpanan",
+        "name": "Storage Capacity",
         "value": "12TB",
         "id": 100465,
         "is_timestamp": false,
@@ -107,7 +107,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 581,
+    "liked_count": 580,
     "cmt_count": 514,
     "flag": 655362,
     "shopee_verified": false,
@@ -198,12 +198,12 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 0,
+    "other_stock": 59,
     "item_has_post": true,
-    "discount_stock": 69,
-    "current_promotion_has_reserve_stock": false,
-    "current_promotion_reserved_stock": 0,
-    "normal_stock": 69,
+    "discount_stock": 38,
+    "current_promotion_has_reserve_stock": true,
+    "current_promotion_reserved_stock": 30,
+    "normal_stock": 67,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -255,7 +255,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 4,
+        "normal_stock": 2,
         "extinfo": {
           "tier_index": [
             0
@@ -266,7 +266,7 @@
         },
         "price_before_discount": 49900000,
         "modelid": 13140538210,
-        "stock": 4,
+        "stock": 2,
         "has_gimmick_tag": false
       },
       {
@@ -336,13 +336,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 10,
         "name": "4TB",
-        "promotionid": 1265692054,
-        "price": 54800000,
+        "promotionid": 134230,
+        "price": 54900000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 10,
             "stock_breakdown_by_location": null
           },
           {
@@ -350,7 +350,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
+        "current_promotion_has_reserve_stock": true,
         "normal_stock": 41,
         "extinfo": {
           "tier_index": [
@@ -362,7 +362,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 41,
+        "stock": 10,
         "has_gimmick_tag": false
       },
       {
@@ -400,13 +400,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 10,
         "name": "8TB",
-        "promotionid": 1265692054,
+        "promotionid": 134230,
         "price": 119900000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 10,
             "stock_breakdown_by_location": null
           },
           {
@@ -414,7 +414,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
+        "current_promotion_has_reserve_stock": true,
         "normal_stock": 10,
         "extinfo": {
           "tier_index": [
@@ -464,13 +464,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 10,
         "name": "12TB",
-        "promotionid": 1265692054,
-        "price": 188300000,
+        "promotionid": 134230,
+        "price": 189900000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 10,
             "stock_breakdown_by_location": null
           },
           {
@@ -478,7 +478,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
+        "current_promotion_has_reserve_stock": true,
         "normal_stock": 8,
         "extinfo": {
           "tier_index": [
@@ -490,7 +490,7 @@
         },
         "price_before_discount": 269900000,
         "modelid": 13140538217,
-        "stock": 8,
+        "stock": 10,
         "has_gimmick_tag": false
       }
     ],
