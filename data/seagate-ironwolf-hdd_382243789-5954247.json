@@ -77,31 +77,31 @@
     ],
     "attributes": [
       {
-        "name": "Warranty Duration",
-        "value": "3 Years",
+        "name": "Tempoh Waranti",
+        "value": "3 Tahun",
         "id": 100121,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Warranty Type",
-        "value": "Manufacturer Warranty",
+        "name": "Jenis Waranti",
+        "value": "Waranti Pengilang",
         "id": 100370,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Internal/External",
-        "value": "Internal",
+        "name": "Dalaman/Luaran",
+        "value": "Dalaman",
         "id": 100418,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Storage Capacity",
+        "name": "Kapasiti Penyimpanan",
         "value": "12TB",
         "id": 100465,
         "is_timestamp": false,
@@ -110,7 +110,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 582,
+    "liked_count": 581,
     "cmt_count": 513,
     "flag": 655362,
     "shopee_verified": false,
