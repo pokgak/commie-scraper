@@ -14,7 +14,7 @@
     "price": 299900000,
     "stock": 0,
     "discount": null,
-    "historical_sold": 217,
+    "historical_sold": 218,
     "sold": 4,
     "show_discount": 0,
     "raw_discount": 0,
@@ -63,8 +63,8 @@
     ],
     "attributes": [
       {
-        "name": "Pembersih Vakum & Jenis Penjagaan Lantai",
-        "value": "Vakum Stick",
+        "name": "Vacuum Cleaner & Floor Care Type",
+        "value": "Stick Vacuums",
         "id": 100367,
         "is_timestamp": false,
         "brand_option": null,
