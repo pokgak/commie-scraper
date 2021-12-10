@@ -4,7 +4,7 @@
     "shopid": 5954247,
     "userid": 0,
     "price_max_before_discount": 269900000,
-    "has_lowest_price_guarantee": true,
+    "has_lowest_price_guarantee": false,
     "price_before_discount": 49900000,
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
@@ -12,7 +12,7 @@
     "price_min": 26900000,
     "price_max": 188300000,
     "price": 26900000,
-    "stock": 91,
+    "stock": 118,
     "discount": "46%",
     "historical_sold": 1566,
     "sold": 38,
@@ -73,6 +73,30 @@
       1005053
     ],
     "attributes": [
+      {
+        "name": "Warranty Duration",
+        "value": "3 Years",
+        "id": 100121,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      },
+      {
+        "name": "Warranty Type",
+        "value": "Manufacturer Warranty",
+        "id": 100370,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      },
+      {
+        "name": "Internal/External",
+        "value": "Internal",
+        "id": 100418,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      },
       {
         "name": "Storage Capacity",
         "value": "12TB",
@@ -176,10 +200,10 @@
     ],
     "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 91,
+    "discount_stock": 118,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 91,
+    "normal_stock": 118,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -263,7 +287,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 2,
+        "normal_stock": 29,
         "extinfo": {
           "tier_index": [
             1
@@ -274,7 +298,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 2,
+        "stock": 29,
         "has_gimmick_tag": false
       },
       {
