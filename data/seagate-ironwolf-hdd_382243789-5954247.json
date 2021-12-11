@@ -12,7 +12,7 @@
     "price_min": 26900000,
     "price_max": 188300000,
     "price": 26900000,
-    "stock": 116,
+    "stock": 115,
     "discount": "46%",
     "historical_sold": 1566,
     "sold": 38,
@@ -72,6 +72,30 @@
       1000080
     ],
     "attributes": [
+      {
+        "name": "Warranty Duration",
+        "value": "3 Years",
+        "id": 100121,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      },
+      {
+        "name": "Warranty Type",
+        "value": "Manufacturer Warranty",
+        "id": 100370,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      },
+      {
+        "name": "Internal/External",
+        "value": "Internal",
+        "id": 100418,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      },
       {
         "name": "Storage Capacity",
         "value": "12TB",
@@ -175,10 +199,10 @@
     ],
     "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 116,
+    "discount_stock": 115,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 116,
+    "normal_stock": 115,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -422,7 +446,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 2,
+        "normal_stock": 1,
         "extinfo": {
           "tier_index": [
             6
@@ -433,7 +457,7 @@
         },
         "price_before_discount": 234900000,
         "modelid": 13140538216,
-        "stock": 2,
+        "stock": 1,
         "has_gimmick_tag": false
       },
       {
