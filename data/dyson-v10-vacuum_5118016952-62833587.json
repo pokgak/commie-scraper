@@ -61,18 +61,9 @@
       1010309,
       1010308
     ],
-    "attributes": [
-      {
-        "name": "Pembersih Vakum & Jenis Penjagaan Lantai",
-        "value": "Vakum Stick",
-        "id": 100367,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      }
-    ],
+    "attributes": [],
     "liked": false,
-    "liked_count": 533,
+    "liked_count": 534,
     "cmt_count": 114,
     "flag": 720896,
     "shopee_verified": false,
