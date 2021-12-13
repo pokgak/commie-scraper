@@ -61,7 +61,16 @@
       1010309,
       1010308
     ],
-    "attributes": [],
+    "attributes": [
+      {
+        "name": "Vacuum Cleaner & Floor Care Type",
+        "value": "Stick Vacuums",
+        "id": 100367,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      }
+    ],
     "liked": false,
     "liked_count": 534,
     "cmt_count": 114,
