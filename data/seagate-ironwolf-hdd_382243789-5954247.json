@@ -9,15 +9,15 @@
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 26900000,
-    "price_max": 119900000,
-    "price": 26900000,
+    "price_min": 28900000,
+    "price_max": 122900000,
+    "price": 28900000,
     "stock": 102,
-    "discount": "46%",
+    "discount": "42%",
     "historical_sold": 1571,
     "sold": 28,
-    "show_discount": 46,
-    "raw_discount": 46,
+    "show_discount": 42,
+    "raw_discount": 42,
     "min_purchase_limit": 0,
     "overall_purchase_limit": {
       "order_max_purchase_limit": 0,
@@ -74,31 +74,31 @@
     ],
     "attributes": [
       {
-        "name": "Warranty Duration",
-        "value": "3 Years",
+        "name": "Tempoh Waranti",
+        "value": "3 Tahun",
         "id": 100121,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Warranty Type",
-        "value": "Manufacturer Warranty",
+        "name": "Jenis Waranti",
+        "value": "Waranti Pengilang",
         "id": 100370,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Internal/External",
-        "value": "Internal",
+        "name": "Dalaman/Luaran",
+        "value": "Dalaman",
         "id": 100418,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Storage Capacity",
+        "name": "Kapasiti Penyimpanan",
         "value": "12TB",
         "id": 100465,
         "is_timestamp": false,
@@ -243,7 +243,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "1TB",
         "promotionid": 1265692054,
-        "price": 26900000,
+        "price": 28900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -275,7 +275,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "2TB",
         "promotionid": 1265692054,
-        "price": 35900000,
+        "price": 37900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -307,7 +307,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "3TB",
         "promotionid": 1265692054,
-        "price": 48900000,
+        "price": 50900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -339,7 +339,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "4TB",
         "promotionid": 1265692054,
-        "price": 54800000,
+        "price": 54900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -371,7 +371,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "6TB",
         "promotionid": 1265692054,
-        "price": 84900000,
+        "price": 89900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -403,7 +403,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "8TB",
         "promotionid": 1265692054,
-        "price": 119900000,
+        "price": 122900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
