@@ -12,7 +12,7 @@
     "price_min": 28900000,
     "price_max": 122900000,
     "price": 28900000,
-    "stock": 62,
+    "stock": 68,
     "discount": "42%",
     "historical_sold": 1577,
     "sold": 28,
@@ -198,11 +198,11 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 0,
+    "other_stock": 29,
     "item_has_post": true,
-    "discount_stock": 62,
-    "current_promotion_has_reserve_stock": false,
-    "current_promotion_reserved_stock": 0,
+    "discount_stock": 68,
+    "current_promotion_has_reserve_stock": true,
+    "current_promotion_reserved_stock": 35,
     "normal_stock": 62,
     "brand_id": 1146997,
     "is_alcohol_product": false,
@@ -272,13 +272,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 20,
         "name": "2TB",
-        "promotionid": 1265692054,
-        "price": 37900000,
+        "promotionid": 2033363838,
+        "price": 36900000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 20,
             "stock_breakdown_by_location": null
           },
           {
@@ -286,7 +286,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
+        "current_promotion_has_reserve_stock": true,
         "normal_stock": 19,
         "extinfo": {
           "tier_index": [
@@ -298,7 +298,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 19,
+        "stock": 20,
         "has_gimmick_tag": false
       },
       {
@@ -336,13 +336,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 15,
         "name": "4TB",
-        "promotionid": 1265692054,
-        "price": 54900000,
+        "promotionid": 2033363838,
+        "price": 53900000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 15,
             "stock_breakdown_by_location": null
           },
           {
@@ -350,7 +350,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
+        "current_promotion_has_reserve_stock": true,
         "normal_stock": 10,
         "extinfo": {
           "tier_index": [
@@ -362,7 +362,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 10,
+        "stock": 15,
         "has_gimmick_tag": false
       },
       {
@@ -525,8 +525,7 @@
     "presale_info": null,
     "is_cc_installment_payment_eligible": false,
     "is_non_cc_installment_payment_eligible": false,
-    "flash_sale": null,
-    "upcoming_flash_sale": {
+    "flash_sale": {
       "flash_sale_type": 2,
       "extra_discount_info": null,
       "promotionid": 2033363838,
@@ -535,13 +534,14 @@
       "promo_images": [
         "bf628aafe223fb197a5582b6677d61a9"
       ],
-      "price": null,
-      "flash_sale_stock": null,
-      "stock": null,
+      "price": 36900000,
+      "flash_sale_stock": 35,
+      "stock": 35,
       "hidden_price_display": null,
       "promo_overlay_image": null,
       "price_before_discount": 59900000
     },
+    "upcoming_flash_sale": null,
     "deep_discount": null,
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
