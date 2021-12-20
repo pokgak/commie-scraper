@@ -64,7 +64,7 @@
     ],
     "attributes": [
       {
-        "name": "Country of Origin",
+        "name": "Negara Asal",
         "value": "Malaysia ",
         "id": 100037,
         "is_timestamp": false,
@@ -72,7 +72,7 @@
         "val_id": null
       },
       {
-        "name": "Weight",
+        "name": "Berat",
         "value": "2.5kg",
         "id": 100095,
         "is_timestamp": false,
@@ -80,7 +80,7 @@
         "val_id": null
       },
       {
-        "name": "Warranty Duration",
+        "name": "Tempoh Waranti",
         "value": "2 Years",
         "id": 100121,
         "is_timestamp": false,
@@ -88,15 +88,15 @@
         "val_id": null
       },
       {
-        "name": "Corded/ Cordless",
-        "value": "Cordless",
+        "name": "Berwayar/ Tanpa Wayar",
+        "value": "Tanpa Wayar",
         "id": 100286,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Run Time",
+        "name": "Tempoh Operasi",
         "value": "60mins",
         "id": 100351,
         "is_timestamp": false,
@@ -104,39 +104,39 @@
         "val_id": null
       },
       {
-        "name": "Robot Vacuum Features",
-        "value": "HEPA Filter",
+        "name": "Ciri Vakum Robot",
+        "value": "Penapis HEPA",
         "id": 100352,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Vacuum Cleaner & Floor Care Type",
-        "value": "Stick Vacuums",
+        "name": "Pembersih Vakum & Jenis Penjagaan Lantai",
+        "value": "Vakum Stick",
         "id": 100367,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Vacuum Cleaner Features",
-        "value": "Rechargeable Battery, Roller Brush, HEPA Filtration",
+        "name": "Ciri Pembersih Vakum",
+        "value": "Bateri Boleh Dicas Semula, Berus Roller, Penapis HEPA",
         "id": 100368,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Vacuum Cleaner Function",
-        "value": "Anti-Dust Mite Vacuums",
+        "name": "Fungsi Pembersih Vakum",
+        "value": "Vakum Anti-Debu Hama",
         "id": 100369,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Warranty Type",
+        "name": "Jenis Waranti",
         "value": "Local Warranty",
         "id": 100370,
         "is_timestamp": false,
@@ -144,7 +144,7 @@
         "val_id": null
       },
       {
-        "name": "Airwatts",
+        "name": "Airwatt",
         "value": "150Airwatts",
         "id": 100990,
         "is_timestamp": false,
@@ -153,7 +153,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 530,
+    "liked_count": 529,
     "cmt_count": 114,
     "flag": 720896,
     "shopee_verified": false,
