@@ -9,15 +9,15 @@
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 28200000,
-    "price_max": 119900000,
-    "price": 28200000,
+    "price_min": 48500000,
+    "price_max": 118900000,
+    "price": 48500000,
     "stock": 95,
-    "discount": "43%",
+    "discount": "41%",
     "historical_sold": 1595,
     "sold": 64,
-    "show_discount": 43,
-    "raw_discount": 43,
+    "show_discount": 41,
+    "raw_discount": 41,
     "min_purchase_limit": 0,
     "overall_purchase_limit": {
       "order_max_purchase_limit": 0,
@@ -245,8 +245,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "1TB",
-        "promotionid": 1265692054,
-        "price": 28200000,
+        "promotionid": 1308726575,
+        "price": 49401000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -277,8 +277,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "2TB",
-        "promotionid": 1265692054,
-        "price": 37500000,
+        "promotionid": 1308726575,
+        "price": 59301000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -309,8 +309,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "3TB",
-        "promotionid": 1265692054,
-        "price": 50900000,
+        "promotionid": 1308726575,
+        "price": 48500000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -341,8 +341,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "4TB",
-        "promotionid": 1265692054,
-        "price": 54900000,
+        "promotionid": 1308726575,
+        "price": 53900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -373,8 +373,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "6TB",
-        "promotionid": 1265692054,
-        "price": 86900000,
+        "promotionid": 1308726575,
+        "price": 85900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -405,8 +405,8 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "8TB",
-        "promotionid": 1265692054,
-        "price": 119900000,
+        "promotionid": 1308726575,
+        "price": 118900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -437,13 +437,9 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "10TB",
-        "promotionid": 1265692054,
-        "price": 159900000,
+        "promotionid": 0,
+        "price": 234900000,
         "price_stocks": [
-          {
-            "allocated_stock": 0,
-            "stock_breakdown_by_location": null
-          },
           {
             "allocated_stock": null,
             "stock_breakdown_by_location": null
@@ -459,7 +455,7 @@
           "is_pre_order": false,
           "estimated_days": 2
         },
-        "price_before_discount": 234900000,
+        "price_before_discount": 0,
         "modelid": 13140538216,
         "stock": 0,
         "has_gimmick_tag": false
@@ -469,13 +465,9 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "12TB",
-        "promotionid": 1265692054,
-        "price": 188300000,
+        "promotionid": 0,
+        "price": 269900000,
         "price_stocks": [
-          {
-            "allocated_stock": 0,
-            "stock_breakdown_by_location": null
-          },
           {
             "allocated_stock": null,
             "stock_breakdown_by_location": null
@@ -491,7 +483,7 @@
           "is_pre_order": false,
           "estimated_days": 2
         },
-        "price_before_discount": 269900000,
+        "price_before_discount": 0,
         "modelid": 13140538217,
         "stock": 0,
         "has_gimmick_tag": false
