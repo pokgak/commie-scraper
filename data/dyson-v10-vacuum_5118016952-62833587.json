@@ -63,7 +63,7 @@
     ],
     "attributes": [
       {
-        "name": "\u539f\u4ea7\u56fd",
+        "name": "Country of Origin",
         "value": "Malaysia ",
         "id": 100037,
         "is_timestamp": false,
@@ -71,7 +71,7 @@
         "val_id": null
       },
       {
-        "name": "\u91cd\u91cf",
+        "name": "Weight",
         "value": "2.5kg",
         "id": 100095,
         "is_timestamp": false,
@@ -79,7 +79,7 @@
         "val_id": null
       },
       {
-        "name": "\u8d28\u4fdd\u671f\u9650",
+        "name": "Warranty Duration",
         "value": "2 Years",
         "id": 100121,
         "is_timestamp": false,
@@ -87,15 +87,15 @@
         "val_id": null
       },
       {
-        "name": "\u6709\u7ebf/\u65e0\u7ebf",
-        "value": "\u65e0\u7ebf",
+        "name": "Corded/ Cordless",
+        "value": "Cordless",
         "id": 100286,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "\u8fd0\u884c\u65f6\u95f4",
+        "name": "Run Time",
         "value": "60mins",
         "id": 100351,
         "is_timestamp": false,
@@ -103,39 +103,39 @@
         "val_id": null
       },
       {
-        "name": "\u673a\u5668\u4eba\u5438\u5c18\u5668\u7279\u70b9",
-        "value": "HEPA\u8fc7\u6ee4\u7f51",
+        "name": "Robot Vacuum Features",
+        "value": "HEPA Filter",
         "id": 100352,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "\u5438\u5c18\u5668&\u5730\u677f\u62a4\u7406\u79cd\u7c7b",
-        "value": "\u68d2\u5f0f\u5438\u5c18\u5668",
+        "name": "Vacuum Cleaner & Floor Care Type",
+        "value": "Stick Vacuums",
         "id": 100367,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "\u5438\u5c18\u5668\u7279\u70b9",
-        "value": "\u53ef\u5145\u7535\u7535\u6c60, \u6eda\u7b52\u5237, \u9ad8\u6548\u8fc7\u6ee4",
+        "name": "Vacuum Cleaner Features",
+        "value": "Rechargeable Battery, Roller Brush, HEPA Filtration",
         "id": 100368,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "\u5438\u5c18\u5668\u529f\u80fd",
-        "value": "\u9664\u87a8\u5438\u5c18\u5668",
+        "name": "Vacuum Cleaner Function",
+        "value": "Anti-Dust Mite Vacuums",
         "id": 100369,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "\u4fdd\u4fee\u79cd\u7c7b",
+        "name": "Warranty Type",
         "value": "Local Warranty",
         "id": 100370,
         "is_timestamp": false,
@@ -143,7 +143,7 @@
         "val_id": null
       },
       {
-        "name": "\u5438\u5c18\u529f\u7387",
+        "name": "Airwatts",
         "value": "150Airwatts",
         "id": 100990,
         "is_timestamp": false,
