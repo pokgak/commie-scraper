@@ -15,7 +15,7 @@
     "stock": 95,
     "discount": "45%",
     "historical_sold": 1595,
-    "sold": 64,
+    "sold": 61,
     "show_discount": 45,
     "raw_discount": 45,
     "min_purchase_limit": 0,
@@ -549,7 +549,7 @@
           "font_color": "#ffffff",
           "background_image": "c046cb2acdbe7f438327ddd9e007cae7",
           "pre_hype_text": "Get this at <strong>RM359.00 </strong>on <strong>{{promotion_start_date}}</strong>!\n",
-          "text_left_offset": 10
+          "text_left_offset": 15
         }
       },
       "hide_atc_and_direct_buy_now": false,
