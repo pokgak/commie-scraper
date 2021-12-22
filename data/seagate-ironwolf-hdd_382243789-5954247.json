@@ -9,15 +9,15 @@
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 48500000,
+    "price_min": 27500000,
     "price_max": 118900000,
-    "price": 48500000,
+    "price": 27500000,
     "stock": 95,
-    "discount": "41%",
+    "discount": "45%",
     "historical_sold": 1595,
     "sold": 64,
-    "show_discount": 41,
-    "raw_discount": 41,
+    "show_discount": 45,
+    "raw_discount": 45,
     "min_purchase_limit": 0,
     "overall_purchase_limit": {
       "order_max_purchase_limit": 0,
@@ -243,7 +243,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "1TB",
         "promotionid": 1308726575,
-        "price": 49401000,
+        "price": 27500000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -275,7 +275,7 @@
         "current_promotion_reserved_stock": 0,
         "name": "2TB",
         "promotionid": 1308726575,
-        "price": 59301000,
+        "price": 36900000,
         "price_stocks": [
           {
             "allocated_stock": 0,
@@ -434,9 +434,13 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "10TB",
-        "promotionid": 0,
-        "price": 234900000,
+        "promotionid": 1308726575,
+        "price": 149900000,
         "price_stocks": [
+          {
+            "allocated_stock": 0,
+            "stock_breakdown_by_location": null
+          },
           {
             "allocated_stock": null,
             "stock_breakdown_by_location": null
@@ -452,7 +456,7 @@
           "is_pre_order": false,
           "estimated_days": 2
         },
-        "price_before_discount": 0,
+        "price_before_discount": 234900000,
         "modelid": 13140538216,
         "stock": 0,
         "has_gimmick_tag": false
@@ -462,9 +466,13 @@
         "status": 1,
         "current_promotion_reserved_stock": 0,
         "name": "12TB",
-        "promotionid": 0,
-        "price": 269900000,
+        "promotionid": 1308726575,
+        "price": 189900000,
         "price_stocks": [
+          {
+            "allocated_stock": 0,
+            "stock_breakdown_by_location": null
+          },
           {
             "allocated_stock": null,
             "stock_breakdown_by_location": null
@@ -480,7 +488,7 @@
           "is_pre_order": false,
           "estimated_days": 2
         },
-        "price_before_discount": 0,
+        "price_before_discount": 269900000,
         "modelid": 13140538217,
         "stock": 0,
         "has_gimmick_tag": false
