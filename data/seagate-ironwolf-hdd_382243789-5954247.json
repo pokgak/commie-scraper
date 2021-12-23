@@ -15,7 +15,7 @@
     "stock": 91,
     "discount": "45%",
     "historical_sold": 1597,
-    "sold": 59,
+    "sold": 60,
     "show_discount": 45,
     "raw_discount": 45,
     "min_purchase_limit": 0,
@@ -108,7 +108,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 584,
+    "liked_count": 585,
     "cmt_count": 522,
     "flag": 655362,
     "shopee_verified": false,
