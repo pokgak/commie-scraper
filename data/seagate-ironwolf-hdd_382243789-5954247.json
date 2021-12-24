@@ -12,7 +12,7 @@
     "price_min": 27500000,
     "price_max": 118900000,
     "price": 27500000,
-    "stock": 78,
+    "stock": 76,
     "discount": "45%",
     "historical_sold": 1601,
     "sold": 60,
@@ -202,9 +202,9 @@
     ],
     "other_stock": 53,
     "item_has_post": true,
-    "discount_stock": 78,
+    "discount_stock": 76,
     "current_promotion_has_reserve_stock": true,
-    "current_promotion_reserved_stock": 40,
+    "current_promotion_reserved_stock": 38,
     "normal_stock": 91,
     "brand_id": 1146997,
     "is_alcohol_product": false,
@@ -274,7 +274,7 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 30,
+        "current_promotion_reserved_stock": 28,
         "name": "2TB",
         "promotionid": 137292,
         "price": 35900000,
@@ -300,7 +300,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 30,
+        "stock": 28,
         "has_gimmick_tag": false
       },
       {
@@ -532,7 +532,7 @@
     "deep_discount": {
       "promotion": {
         "promotion_id": 137292,
-        "sold_count": 0,
+        "sold_count": 2,
         "start_time": 1640361600,
         "end_time": 1640447940,
         "price_before_discount": 59900000,
