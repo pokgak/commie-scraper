@@ -529,7 +529,35 @@
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
     "upcoming_flash_sale": null,
-    "deep_discount": null,
+    "deep_discount": {
+      "promotion": {
+        "promotion_id": 137293,
+        "sold_count": null,
+        "start_time": 1640966400,
+        "end_time": 1641052740,
+        "price_before_discount": 79900000,
+        "promotion_price": null,
+        "deep_discount_sub_type": 1,
+        "user_eligibility": 1
+      },
+      "skin": {
+        "mobile": {
+          "font_color": "#ffffff",
+          "background_image": "f9802d129e946c028d279d7b7be6b828",
+          "pre_hype_text": "Get this at <strong>RM499.00 </strong>on <strong>{{promotion_start_date}}</strong>!\n",
+          "text_left_offset": 20
+        },
+        "pc": {
+          "font_color": "#ffffff",
+          "background_image": "c046cb2acdbe7f438327ddd9e007cae7",
+          "pre_hype_text": "Get this at <strong>RM499.00 </strong>on <strong>{{promotion_start_date}}</strong>!\n",
+          "text_left_offset": 10
+        }
+      },
+      "hide_atc_and_direct_buy_now": false,
+      "hide_skin": false,
+      "show_deep_discount_banner": true
+    },
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
     "makeups": null,
