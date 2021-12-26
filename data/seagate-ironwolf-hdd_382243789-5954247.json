@@ -41,14 +41,14 @@
     "reference_item_id": "",
     "brand": "Seagate",
     "item_rating": {
-      "rating_star": 4.864244741873805,
+      "rating_star": 4.864503816793893,
       "rating_count": [
-        524,
+        525,
         7,
         4,
         10,
         15,
-        488
+        489
       ]
     },
     "label_ids": [
@@ -110,7 +110,7 @@
     ],
     "liked": false,
     "liked_count": 587,
-    "cmt_count": 523,
+    "cmt_count": 524,
     "flag": 655362,
     "shopee_verified": false,
     "is_adult": false,
