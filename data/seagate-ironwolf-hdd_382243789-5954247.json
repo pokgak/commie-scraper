@@ -4,7 +4,7 @@
     "shopid": 5954247,
     "userid": 0,
     "price_max_before_discount": 199900000,
-    "has_lowest_price_guarantee": false,
+    "has_lowest_price_guarantee": true,
     "price_before_discount": 49900000,
     "price_min_before_discount": 49900000,
     "exclusive_price_info": null,
@@ -71,8 +71,8 @@
       1010911,
       1008028,
       1008029,
-      10,
-      1003234
+      1003234,
+      10
     ],
     "attributes": [
       {
@@ -109,7 +109,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 586,
+    "liked_count": 587,
     "cmt_count": 524,
     "flag": 655362,
     "shopee_verified": false,
