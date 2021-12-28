@@ -550,7 +550,7 @@
           "font_color": "#ffffff",
           "background_image": "c046cb2acdbe7f438327ddd9e007cae7",
           "pre_hype_text": "Get this at <strong>RM499.00 </strong>on <strong>{{promotion_start_date}}</strong>!\n",
-          "text_left_offset": 25
+          "text_left_offset": 20
         }
       },
       "hide_atc_and_direct_buy_now": false,
