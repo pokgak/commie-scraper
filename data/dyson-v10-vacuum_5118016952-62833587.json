@@ -63,25 +63,17 @@
     ],
     "attributes": [
       {
-        "name": "Country of Origin",
-        "value": "Malaysia ",
-        "id": 100037,
+        "name": "Vacuum Cleaner & Floor Care Type",
+        "value": "Stick Vacuums",
+        "id": 100367,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
       },
       {
-        "name": "Weight",
-        "value": "2.5kg",
-        "id": 100095,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
-        "name": "Warranty Duration",
-        "value": "2 Years",
-        "id": 100121,
+        "name": "Vacuum Cleaner Function",
+        "value": "Anti-Dust Mite Vacuums",
+        "id": 100369,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
@@ -103,22 +95,6 @@
         "val_id": null
       },
       {
-        "name": "Robot Vacuum Features",
-        "value": "HEPA Filter",
-        "id": 100352,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
-        "name": "Vacuum Cleaner & Floor Care Type",
-        "value": "Stick Vacuums",
-        "id": 100367,
-        "is_timestamp": false,
-        "brand_option": null,
-        "val_id": null
-      },
-      {
         "name": "Vacuum Cleaner Features",
         "value": "Rechargeable Battery, Roller Brush, HEPA Filtration",
         "id": 100368,
@@ -127,9 +103,33 @@
         "val_id": null
       },
       {
-        "name": "Vacuum Cleaner Function",
-        "value": "Anti-Dust Mite Vacuums",
-        "id": 100369,
+        "name": "Airwatts",
+        "value": "150Airwatts",
+        "id": 100990,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      },
+      {
+        "name": "Robot Vacuum Features",
+        "value": "HEPA Filter",
+        "id": 100352,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      },
+      {
+        "name": "Warranty Duration",
+        "value": "2 Years",
+        "id": 100121,
+        "is_timestamp": false,
+        "brand_option": null,
+        "val_id": null
+      },
+      {
+        "name": "Weight",
+        "value": "2.5kg",
+        "id": 100095,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
@@ -143,9 +143,9 @@
         "val_id": null
       },
       {
-        "name": "Airwatts",
-        "value": "150Airwatts",
-        "id": 100990,
+        "name": "Country of Origin",
+        "value": "Malaysia ",
+        "id": 100037,
         "is_timestamp": false,
         "brand_option": null,
         "val_id": null
