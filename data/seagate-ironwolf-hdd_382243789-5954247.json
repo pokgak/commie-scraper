@@ -107,7 +107,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 589,
+    "liked_count": 588,
     "cmt_count": 530,
     "flag": 655362,
     "shopee_verified": false,
@@ -339,7 +339,7 @@
         "current_promotion_reserved_stock": 10,
         "name": "4TB",
         "promotionid": 137293,
-        "price": 49900000,
+        "price": 51900000,
         "price_stocks": [
           {
             "allocated_stock": 10,
@@ -534,7 +534,7 @@
         "start_time": 1640966400,
         "end_time": 1641052740,
         "price_before_discount": 79900000,
-        "promotion_price": 49900000,
+        "promotion_price": 51900000,
         "deep_discount_sub_type": 1,
         "user_eligibility": 1
       },
@@ -542,13 +542,13 @@
         "mobile": {
           "font_color": "#ffffff",
           "background_image": "f9802d129e946c028d279d7b7be6b828",
-          "pre_hype_text": "Get this at <strong>RM499.00 </strong>on <strong>{{promotion_start_date}}</strong>!\n",
+          "pre_hype_text": "Get this at <strong>RM519.00 </strong>on <strong>{{promotion_start_date}}</strong>!\n",
           "text_left_offset": 20
         },
         "pc": {
           "font_color": "#ffffff",
           "background_image": "c046cb2acdbe7f438327ddd9e007cae7",
-          "pre_hype_text": "Get this at <strong>RM499.00 </strong>on <strong>{{promotion_start_date}}</strong>!\n",
+          "pre_hype_text": "Get this at <strong>RM519.00 </strong>on <strong>{{promotion_start_date}}</strong>!\n",
           "text_left_offset": 15
         }
       },
