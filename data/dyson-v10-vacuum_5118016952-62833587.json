@@ -310,6 +310,7 @@
     "is_partial_fulfilled": false,
     "makeups": null,
     "shop_vouchers": null,
-    "global_sold": null
+    "global_sold": null,
+    "is_infant_milk_formula_product": false
   }
 ]
