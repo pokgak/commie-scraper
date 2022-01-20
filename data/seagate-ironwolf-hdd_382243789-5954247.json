@@ -28,7 +28,7 @@
     },
     "pack_size": null,
     "is_live_streaming_price": null,
-    "name": "Seagate Ironwolf NAS 16TB/14TB/12TB/10TB/8TB/6TB/4TB/3TB/2TB/1TB 3.5\" SATA HDD 7200RPM/5900RPM Internal Hard Disk Drive",
+    "name": "Seagate Ironwolf NAS 12TB/10TB/8TB/6TB/4TB/3TB/2TB/1TB 3.5\" SATA HDD 7200RPM/5900RPM Internal Hard Disk Drive (Angpao Packet)",
     "ctime": 1501124367,
     "item_status": "normal",
     "status": 1,
@@ -149,6 +149,7 @@
     "invoice_option": null,
     "complaint_policy": null,
     "images": [
+      "2a76857b3228831ff863147aeea9b731",
       "083ced7c99162d64f1e39f94ce9120d0",
       "23a29d4a97f5acf751b5ec117a4f3c17",
       "bc9e21b8e4b0701a9f81f847b0173847",
@@ -158,7 +159,7 @@
       "e6bf75b8d1f96bf22e5e18ae1150764f",
       "75c89f6e3456f7df8f4679962f5963bf"
     ],
-    "image": "083ced7c99162d64f1e39f94ce9120d0",
+    "image": "2a76857b3228831ff863147aeea9b731",
     "video_info_list": null,
     "item_type": 0,
     "is_official_shop": true,
