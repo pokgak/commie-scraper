@@ -12,7 +12,7 @@
     "price_min": 28500000,
     "price_max": 88900000,
     "price": 28500000,
-    "stock": 70,
+    "stock": 54,
     "discount": "43%",
     "historical_sold": 1648,
     "sold": 43,
@@ -200,11 +200,11 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 0,
+    "other_stock": 26,
     "item_has_post": true,
-    "discount_stock": 70,
-    "current_promotion_has_reserve_stock": false,
-    "current_promotion_reserved_stock": 0,
+    "discount_stock": 54,
+    "current_promotion_has_reserve_stock": true,
+    "current_promotion_reserved_stock": 10,
     "normal_stock": 70,
     "brand_id": 1146997,
     "is_alcohol_product": false,
@@ -334,13 +334,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 10,
         "name": "4TB",
-        "promotionid": 1314136296,
-        "price": 55900000,
+        "promotionid": 141669,
+        "price": 51900000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 10,
             "stock_breakdown_by_location": null
           },
           {
@@ -348,7 +348,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
+        "current_promotion_has_reserve_stock": true,
         "normal_stock": 26,
         "extinfo": {
           "tier_index": [
@@ -360,7 +360,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 26,
+        "stock": 10,
         "has_gimmick_tag": false
       },
       {
@@ -528,11 +528,11 @@
     "deep_discount": {
       "promotion": {
         "promotion_id": 141669,
-        "sold_count": null,
+        "sold_count": 0,
         "start_time": 1643040000,
         "end_time": 1643047140,
         "price_before_discount": 79900000,
-        "promotion_price": null,
+        "promotion_price": 51900000,
         "deep_discount_sub_type": 1,
         "user_eligibility": 1
       },
