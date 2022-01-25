@@ -10,9 +10,9 @@
     "exclusive_price_info": null,
     "hidden_price_display": null,
     "price_min": 28500000,
-    "price_max": 88900000,
+    "price_max": 87900000,
     "price": 28500000,
-    "stock": 39,
+    "stock": 43,
     "discount": "43%",
     "historical_sold": 1648,
     "sold": 40,
@@ -200,12 +200,12 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 0,
+    "other_stock": 44,
     "item_has_post": true,
-    "discount_stock": 39,
-    "current_promotion_has_reserve_stock": false,
-    "current_promotion_reserved_stock": 0,
-    "normal_stock": 39,
+    "discount_stock": 43,
+    "current_promotion_has_reserve_stock": true,
+    "current_promotion_reserved_stock": 40,
+    "normal_stock": 47,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -274,13 +274,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 10,
         "name": "2TB",
-        "promotionid": 1314136296,
-        "price": 38500000,
+        "promotionid": 2037115558,
+        "price": 37900000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 10,
             "stock_breakdown_by_location": null
           },
           {
@@ -288,8 +288,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
-        "normal_stock": 11,
+        "current_promotion_has_reserve_stock": true,
+        "normal_stock": 19,
         "extinfo": {
           "tier_index": [
             1
@@ -300,7 +300,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 11,
+        "stock": 10,
         "has_gimmick_tag": false
       },
       {
@@ -334,13 +334,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 20,
         "name": "4TB",
-        "promotionid": 1314136296,
-        "price": 55900000,
+        "promotionid": 2037115558,
+        "price": 55500000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 20,
             "stock_breakdown_by_location": null
           },
           {
@@ -348,7 +348,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
+        "current_promotion_has_reserve_stock": true,
         "normal_stock": 16,
         "extinfo": {
           "tier_index": [
@@ -360,19 +360,19 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 16,
+        "stock": 20,
         "has_gimmick_tag": false
       },
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 10,
         "name": "6TB",
-        "promotionid": 1314136296,
-        "price": 88900000,
+        "promotionid": 2037115558,
+        "price": 87900000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 10,
             "stock_breakdown_by_location": null
           },
           {
@@ -380,7 +380,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
+        "current_promotion_has_reserve_stock": true,
         "normal_stock": 9,
         "extinfo": {
           "tier_index": [
@@ -392,7 +392,7 @@
         },
         "price_before_discount": 129900000,
         "modelid": 13140538214,
-        "stock": 9,
+        "stock": 10,
         "has_gimmick_tag": false
       },
       {
@@ -523,8 +523,7 @@
     "presale_info": null,
     "is_cc_installment_payment_eligible": false,
     "is_non_cc_installment_payment_eligible": false,
-    "flash_sale": null,
-    "upcoming_flash_sale": {
+    "flash_sale": {
       "flash_sale_type": 2,
       "extra_discount_info": null,
       "promotionid": 2037115558,
@@ -533,13 +532,14 @@
       "promo_images": [
         "bf628aafe223fb197a5582b6677d61a9"
       ],
-      "price": null,
-      "flash_sale_stock": null,
-      "stock": null,
+      "price": 37900000,
+      "flash_sale_stock": 40,
+      "stock": 40,
       "hidden_price_display": null,
       "promo_overlay_image": null,
       "price_before_discount": 59900000
     },
+    "upcoming_flash_sale": null,
     "deep_discount": null,
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
