@@ -204,7 +204,7 @@
       }
     ],
     "other_stock": 0,
-    "item_has_post": false,
+    "item_has_post": true,
     "discount_stock": 86,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
@@ -534,6 +534,7 @@
     "makeups": null,
     "shop_vouchers": null,
     "global_sold": null,
-    "is_infant_milk_formula_product": false
+    "is_infant_milk_formula_product": false,
+    "should_show_amp_tag": false
   }
 ]
