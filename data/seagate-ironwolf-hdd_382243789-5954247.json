@@ -64,10 +64,11 @@
       1008514,
       1002913,
       1010912,
-      1003234,
-      1010911,
       1006343,
       1011968,
+      1011201,
+      1003234,
+      1010911,
       1012336,
       1012008
     ],
@@ -141,7 +142,12 @@
     ],
     "bundle_deal_id": 0,
     "can_use_bundle_deal": false,
-    "add_on_deal_info": null,
+    "add_on_deal_info": {
+      "add_on_deal_id": 6766632,
+      "add_on_deal_label": "Free Gift",
+      "sub_type": 1,
+      "status": 1
+    },
     "bundle_deal_info": null,
     "can_use_wholesale": false,
     "wholesale_tier_list": [],
