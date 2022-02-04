@@ -15,7 +15,7 @@
     "stock": 44,
     "discount": "39%",
     "historical_sold": 1655,
-    "sold": 36,
+    "sold": 34,
     "show_discount": 39,
     "raw_discount": 39,
     "min_purchase_limit": 0,
@@ -70,8 +70,8 @@
       1011968,
       1006343,
       1012336,
-      1012008,
-      1012669
+      1012669,
+      1012008
     ],
     "attributes": [
       {
