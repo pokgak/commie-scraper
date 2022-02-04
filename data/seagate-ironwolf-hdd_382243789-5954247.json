@@ -70,8 +70,8 @@
       1011968,
       1006343,
       1012336,
-      1012669,
-      1012008
+      1012008,
+      1012669
     ],
     "attributes": [
       {
@@ -537,6 +537,6 @@
     "shop_vouchers": null,
     "global_sold": null,
     "is_infant_milk_formula_product": false,
-    "should_show_amp_tag": false
+    "should_show_amp_tag": true
   }
 ]
