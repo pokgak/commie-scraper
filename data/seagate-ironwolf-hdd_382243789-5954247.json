@@ -12,7 +12,7 @@
     "price_min": 36900000,
     "price_max": 122900000,
     "price": 36900000,
-    "stock": 57,
+    "stock": 55,
     "discount": "39%",
     "historical_sold": 1658,
     "sold": 34,
@@ -208,10 +208,10 @@
     ],
     "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 57,
+    "discount_stock": 55,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 57,
+    "normal_stock": 55,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -419,7 +419,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 5,
+        "normal_stock": 3,
         "extinfo": {
           "tier_index": [
             5
@@ -430,7 +430,7 @@
         },
         "price_before_discount": 199900000,
         "modelid": 13140538215,
-        "stock": 5,
+        "stock": 3,
         "has_gimmick_tag": false
       },
       {
