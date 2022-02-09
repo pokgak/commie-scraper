@@ -206,7 +206,7 @@
     "show_free_shipping": false,
     "shipping_icon_type": 0,
     "cod_flag": 1,
-    "is_service_by_shopee": null,
+    "is_service_by_shopee": false,
     "show_original_guarantee": true,
     "categories": [
       {
