@@ -12,9 +12,9 @@
     "price_min": 37500000,
     "price_max": 189900000,
     "price": 37500000,
-    "stock": 173,
+    "stock": 133,
     "discount": "39%",
-    "historical_sold": 1662,
+    "historical_sold": 1664,
     "sold": 33,
     "show_discount": 39,
     "raw_discount": 39,
@@ -41,14 +41,14 @@
     "reference_item_id": "",
     "brand": "Seagate",
     "item_rating": {
-      "rating_star": 4.869724770642202,
+      "rating_star": 4.8699633699633695,
       "rating_count": [
-        546,
+        547,
         7,
         4,
         10,
         15,
-        510
+        511
       ]
     },
     "label_ids": [
@@ -71,8 +71,8 @@
       1006343,
       1012336,
       1003234,
-      1012669,
-      1012008
+      1012008,
+      1012669
     ],
     "attributes": [
       {
@@ -110,7 +110,7 @@
     ],
     "liked": false,
     "liked_count": 599,
-    "cmt_count": 545,
+    "cmt_count": 546,
     "flag": 655362,
     "shopee_verified": false,
     "is_adult": false,
@@ -208,10 +208,10 @@
     ],
     "other_stock": 0,
     "item_has_post": false,
-    "discount_stock": 173,
+    "discount_stock": 133,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
-    "normal_stock": 173,
+    "normal_stock": 133,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -295,7 +295,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 55,
+        "normal_stock": 25,
         "extinfo": {
           "tier_index": [
             1
@@ -306,7 +306,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 55,
+        "stock": 25,
         "has_gimmick_tag": false
       },
       {
@@ -359,7 +359,7 @@
           }
         ],
         "current_promotion_has_reserve_stock": false,
-        "normal_stock": 74,
+        "normal_stock": 64,
         "extinfo": {
           "tier_index": [
             3
@@ -370,7 +370,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 74,
+        "stock": 64,
         "has_gimmick_tag": false
       },
       {
