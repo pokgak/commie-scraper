@@ -207,7 +207,7 @@
       }
     ],
     "other_stock": 0,
-    "item_has_post": false,
+    "item_has_post": true,
     "discount_stock": 138,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
