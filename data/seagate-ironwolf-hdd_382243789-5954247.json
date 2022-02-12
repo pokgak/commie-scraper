@@ -15,7 +15,7 @@
     "stock": 138,
     "discount": "39%",
     "historical_sold": 1666,
-    "sold": 30,
+    "sold": 25,
     "show_discount": 39,
     "raw_discount": 39,
     "min_purchase_limit": 0,
@@ -184,7 +184,7 @@
     "show_free_shipping": true,
     "shipping_icon_type": 0,
     "cod_flag": 0,
-    "is_service_by_shopee": false,
+    "is_service_by_shopee": null,
     "show_original_guarantee": true,
     "categories": [
       {
@@ -207,7 +207,7 @@
       }
     ],
     "other_stock": 0,
-    "item_has_post": true,
+    "item_has_post": false,
     "discount_stock": 138,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
