@@ -75,8 +75,8 @@
       1012432,
       1013019,
       1003234,
-      1012008,
-      1012669
+      1012669,
+      1012008
     ],
     "attributes": [
       {
@@ -113,7 +113,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 605,
+    "liked_count": 606,
     "cmt_count": 548,
     "flag": 655362,
     "shopee_verified": false,
@@ -188,7 +188,7 @@
     "show_free_shipping": true,
     "shipping_icon_type": 0,
     "cod_flag": 0,
-    "is_service_by_shopee": false,
+    "is_service_by_shopee": null,
     "show_original_guarantee": true,
     "categories": [
       {
@@ -211,7 +211,7 @@
       }
     ],
     "other_stock": 0,
-    "item_has_post": true,
+    "item_has_post": false,
     "discount_stock": 129,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
