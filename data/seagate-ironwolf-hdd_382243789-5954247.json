@@ -15,7 +15,7 @@
     "stock": 149,
     "discount": "39%",
     "historical_sold": 1670,
-    "sold": 22,
+    "sold": 26,
     "show_discount": 39,
     "raw_discount": 39,
     "min_purchase_limit": 0,
@@ -188,7 +188,7 @@
     "show_free_shipping": true,
     "shipping_icon_type": 0,
     "cod_flag": 0,
-    "is_service_by_shopee": null,
+    "is_service_by_shopee": false,
     "show_original_guarantee": true,
     "categories": [
       {
@@ -211,7 +211,7 @@
       }
     ],
     "other_stock": 0,
-    "item_has_post": false,
+    "item_has_post": true,
     "discount_stock": 149,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
@@ -220,8 +220,33 @@
     "is_alcohol_product": false,
     "show_recycling_info": false,
     "coin_info": {
-      "spend_cash_unit": 0,
-      "coin_earn_items": []
+      "spend_cash_unit": 1000,
+      "coin_earn_items": [
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        },
+        {
+          "coin_earn": 0
+        }
+      ]
     },
     "models": [
       {
