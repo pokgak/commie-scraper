@@ -67,6 +67,7 @@
       1010912,
       1011201,
       1012512,
+      1012433,
       1003234,
       1010911,
       1011968,
@@ -74,8 +75,8 @@
       1009344,
       1012432,
       1013019,
-      1012669,
-      1012008
+      1012008,
+      1012669
     ],
     "attributes": [
       {
@@ -210,7 +211,7 @@
       }
     ],
     "other_stock": 0,
-    "item_has_post": true,
+    "item_has_post": false,
     "discount_stock": 149,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
