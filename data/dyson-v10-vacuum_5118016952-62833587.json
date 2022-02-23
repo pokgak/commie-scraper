@@ -186,6 +186,7 @@
     "tax_code": null,
     "invoice_option": null,
     "complaint_policy": null,
+    "wp_eligibility": null,
     "images": [
       "2fdbd407929f208543db665929344479",
       "b8e5267230b69a98493643bb81b631af",
