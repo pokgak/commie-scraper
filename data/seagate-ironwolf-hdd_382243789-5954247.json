@@ -42,14 +42,14 @@
     "reference_item_id": "",
     "brand": "Seagate",
     "item_rating": {
-      "rating_star": 4.870673952641166,
+      "rating_star": 4.870909090909091,
       "rating_count": [
-        550,
+        551,
         7,
         4,
         10,
         15,
-        514
+        515
       ]
     },
     "label_ids": [
@@ -77,8 +77,8 @@
       1013019,
       1012786,
       1013205,
-      1012669,
-      1012008
+      1012008,
+      1012669
     ],
     "attributes": [
       {
@@ -588,7 +588,7 @@
         "product_limit": false,
         "quota_type": 1,
         "percentage_claimed": 0,
-        "percentage_used": 27,
+        "percentage_used": 28,
         "start_time": 1645632000,
         "end_time": 1645718340,
         "collect_time": null,
