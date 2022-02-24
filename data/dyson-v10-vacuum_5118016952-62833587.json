@@ -317,7 +317,7 @@
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
     "makeups": null,
-    "shop_vouchers": null,
+    "shop_vouchers": [],
     "global_sold": null,
     "is_infant_milk_formula_product": false,
     "should_show_amp_tag": true
