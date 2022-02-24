@@ -9,10 +9,10 @@
     "price_min_before_discount": 59900000,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 36500000,
+    "price_min": 37500000,
     "price_max": 189900000,
-    "price": 36500000,
-    "stock": 79,
+    "price": 37500000,
+    "stock": 224,
     "discount": "39%",
     "historical_sold": 1674,
     "sold": 25,
@@ -78,8 +78,8 @@
       1012786,
       1013205,
       1012432,
-      1012669,
-      1012008
+      1012008,
+      1012669
     ],
     "attributes": [
       {
@@ -214,12 +214,12 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 145,
+    "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 79,
-    "current_promotion_has_reserve_stock": true,
-    "current_promotion_reserved_stock": 39,
-    "normal_stock": 185,
+    "discount_stock": 224,
+    "current_promotion_has_reserve_stock": false,
+    "current_promotion_reserved_stock": 0,
+    "normal_stock": 224,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -288,13 +288,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 30,
+        "current_promotion_reserved_stock": 0,
         "name": "2TB",
-        "promotionid": 146863,
-        "price": 36500000,
+        "promotionid": 1314136296,
+        "price": 37500000,
         "price_stocks": [
           {
-            "allocated_stock": 30,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -302,8 +302,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 63,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 93,
         "extinfo": {
           "tier_index": [
             1
@@ -314,7 +314,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 30,
+        "stock": 93,
         "has_gimmick_tag": false
       },
       {
@@ -352,13 +352,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 9,
+        "current_promotion_reserved_stock": 0,
         "name": "4TB",
-        "promotionid": 146863,
-        "price": 53500000,
+        "promotionid": 1314136296,
+        "price": 55900000,
         "price_stocks": [
           {
-            "allocated_stock": 10,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -366,8 +366,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 82,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 91,
         "extinfo": {
           "tier_index": [
             3
@@ -378,7 +378,7 @@
         },
         "price_before_discount": 79900000,
         "modelid": 13140538213,
-        "stock": 9,
+        "stock": 91,
         "has_gimmick_tag": false
       },
       {
@@ -545,12 +545,12 @@
     "upcoming_flash_sale": null,
     "deep_discount": {
       "promotion": {
-        "promotion_id": 146863,
-        "sold_count": 1,
-        "start_time": 1645718400,
-        "end_time": 1645725540,
+        "promotion_id": 148823,
+        "sold_count": null,
+        "start_time": 1645761600,
+        "end_time": 1645768740,
         "price_before_discount": 59900000,
-        "promotion_price": 36500000,
+        "promotion_price": null,
         "deep_discount_sub_type": 1,
         "user_eligibility": 1
       },
@@ -558,13 +558,13 @@
         "mobile": {
           "font_color": "#ffffff",
           "background_image": "98a8dfd3f712bf2db967464bfb1528e0",
-          "pre_hype_text": "Get this at <strong>RM365.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
+          "pre_hype_text": "Get this at <strong>RM365.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12PM-2PM!\n",
           "text_left_offset": 25
         },
         "pc": {
           "font_color": "#ffffff",
           "background_image": "90b1b35b0a468ad37472f5c4b06c0f6d",
-          "pre_hype_text": "Get this at <strong>RM365.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12AM-2AM!\n",
+          "pre_hype_text": "Get this at <strong>RM365.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12PM-2PM!\n",
           "text_left_offset": 20
         }
       },
@@ -588,8 +588,8 @@
         "current_spend": null,
         "product_limit": false,
         "quota_type": 1,
-        "percentage_claimed": 84,
-        "percentage_used": 67,
+        "percentage_claimed": 85,
+        "percentage_used": 94,
         "start_time": 1645718400,
         "end_time": 1645804740,
         "collect_time": null,
@@ -656,7 +656,7 @@
         "product_limit": false,
         "quota_type": 1,
         "percentage_claimed": 3,
-        "percentage_used": 4,
+        "percentage_used": 5,
         "start_time": 1645286400,
         "end_time": 1645804740,
         "collect_time": null,
