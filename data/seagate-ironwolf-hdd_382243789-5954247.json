@@ -9,10 +9,10 @@
     "price_min_before_discount": 59900000,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 37500000,
+    "price_min": 36500000,
     "price_max": 189900000,
-    "price": 37500000,
-    "stock": 224,
+    "price": 36500000,
+    "stock": 161,
     "discount": "39%",
     "historical_sold": 1674,
     "sold": 33,
@@ -78,8 +78,8 @@
       1012786,
       1013205,
       1012432,
-      1012008,
-      1012669
+      1012669,
+      1012008
     ],
     "attributes": [
       {
@@ -116,7 +116,7 @@
       }
     ],
     "liked": false,
-    "liked_count": 608,
+    "liked_count": 607,
     "cmt_count": 549,
     "flag": 655362,
     "shopee_verified": false,
@@ -214,11 +214,11 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 0,
+    "other_stock": 93,
     "item_has_post": true,
-    "discount_stock": 224,
-    "current_promotion_has_reserve_stock": false,
-    "current_promotion_reserved_stock": 0,
+    "discount_stock": 161,
+    "current_promotion_has_reserve_stock": true,
+    "current_promotion_reserved_stock": 30,
     "normal_stock": 224,
     "brand_id": 1146997,
     "is_alcohol_product": false,
@@ -288,13 +288,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 0,
+        "current_promotion_reserved_stock": 30,
         "name": "2TB",
-        "promotionid": 1314136296,
-        "price": 37500000,
+        "promotionid": 148823,
+        "price": 36500000,
         "price_stocks": [
           {
-            "allocated_stock": 0,
+            "allocated_stock": 30,
             "stock_breakdown_by_location": null
           },
           {
@@ -302,7 +302,7 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": false,
+        "current_promotion_has_reserve_stock": true,
         "normal_stock": 93,
         "extinfo": {
           "tier_index": [
@@ -314,7 +314,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 93,
+        "stock": 30,
         "has_gimmick_tag": false
       },
       {
@@ -546,11 +546,11 @@
     "deep_discount": {
       "promotion": {
         "promotion_id": 148823,
-        "sold_count": null,
+        "sold_count": 0,
         "start_time": 1645761600,
         "end_time": 1645768740,
         "price_before_discount": 59900000,
-        "promotion_price": null,
+        "promotion_price": 36500000,
         "deep_discount_sub_type": 1,
         "user_eligibility": 1
       },
