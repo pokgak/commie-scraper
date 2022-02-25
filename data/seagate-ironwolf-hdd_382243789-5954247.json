@@ -79,8 +79,8 @@
       1013019,
       1012786,
       1013205,
-      1012669,
-      1012008
+      1012008,
+      1012669
     ],
     "attributes": [
       {
@@ -216,7 +216,7 @@
       }
     ],
     "other_stock": 0,
-    "item_has_post": true,
+    "item_has_post": false,
     "discount_stock": 243,
     "current_promotion_has_reserve_stock": false,
     "current_promotion_reserved_stock": 0,
@@ -562,7 +562,7 @@
         "product_limit": false,
         "quota_type": 1,
         "percentage_claimed": 0,
-        "percentage_used": 2,
+        "percentage_used": 3,
         "start_time": 1645804800,
         "end_time": 1646409540,
         "collect_time": null,
