@@ -78,8 +78,8 @@
       1012786,
       1013205,
       1012432,
-      1012669,
-      1012008
+      1012008,
+      1012669
     ],
     "attributes": [
       {
@@ -588,7 +588,7 @@
         "current_spend": null,
         "product_limit": false,
         "quota_type": 1,
-        "percentage_claimed": 3,
+        "percentage_claimed": 4,
         "percentage_used": 5,
         "start_time": 1645286400,
         "end_time": 1645804740,
