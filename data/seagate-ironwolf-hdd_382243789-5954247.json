@@ -9,10 +9,10 @@
     "price_min_before_discount": 59900000,
     "exclusive_price_info": null,
     "hidden_price_display": null,
-    "price_min": 36500000,
+    "price_min": 37500000,
     "price_max": 189900000,
-    "price": 36500000,
-    "stock": 151,
+    "price": 37500000,
+    "stock": 244,
     "discount": "39%",
     "historical_sold": 1674,
     "sold": 33,
@@ -214,12 +214,12 @@
         "is_default_subcat": false
       }
     ],
-    "other_stock": 93,
+    "other_stock": 0,
     "item_has_post": true,
-    "discount_stock": 151,
-    "current_promotion_has_reserve_stock": true,
-    "current_promotion_reserved_stock": 30,
-    "normal_stock": 214,
+    "discount_stock": 244,
+    "current_promotion_has_reserve_stock": false,
+    "current_promotion_reserved_stock": 0,
+    "normal_stock": 244,
     "brand_id": 1146997,
     "is_alcohol_product": false,
     "show_recycling_info": false,
@@ -288,13 +288,13 @@
       {
         "itemid": 382243789,
         "status": 1,
-        "current_promotion_reserved_stock": 30,
+        "current_promotion_reserved_stock": 0,
         "name": "2TB",
-        "promotionid": 148823,
-        "price": 36500000,
+        "promotionid": 1314136296,
+        "price": 37500000,
         "price_stocks": [
           {
-            "allocated_stock": 30,
+            "allocated_stock": 0,
             "stock_breakdown_by_location": null
           },
           {
@@ -302,8 +302,8 @@
             "stock_breakdown_by_location": null
           }
         ],
-        "current_promotion_has_reserve_stock": true,
-        "normal_stock": 93,
+        "current_promotion_has_reserve_stock": false,
+        "normal_stock": 123,
         "extinfo": {
           "tier_index": [
             1
@@ -314,7 +314,7 @@
         },
         "price_before_discount": 59900000,
         "modelid": 13140538211,
-        "stock": 30,
+        "stock": 123,
         "has_gimmick_tag": false
       },
       {
@@ -543,35 +543,7 @@
     "is_non_cc_installment_payment_eligible": false,
     "flash_sale": null,
     "upcoming_flash_sale": null,
-    "deep_discount": {
-      "promotion": {
-        "promotion_id": 148823,
-        "sold_count": 0,
-        "start_time": 1645761600,
-        "end_time": 1645768740,
-        "price_before_discount": 59900000,
-        "promotion_price": 36500000,
-        "deep_discount_sub_type": 1,
-        "user_eligibility": 1
-      },
-      "skin": {
-        "mobile": {
-          "font_color": "#ffffff",
-          "background_image": "98a8dfd3f712bf2db967464bfb1528e0",
-          "pre_hype_text": "Get this at <strong>RM365.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12PM-2PM!\n",
-          "text_left_offset": 25
-        },
-        "pc": {
-          "font_color": "#ffffff",
-          "background_image": "90b1b35b0a468ad37472f5c4b06c0f6d",
-          "pre_hype_text": "Get this at <strong>RM365.00 </strong>on <strong>{{promotion_start_date}}</strong> from 12PM-2PM!\n",
-          "text_left_offset": 20
-        }
-      },
-      "hide_atc_and_direct_buy_now": false,
-      "hide_skin": false,
-      "show_deep_discount_banner": true
-    },
+    "deep_discount": null,
     "has_low_fulfillment_rate": false,
     "is_partial_fulfilled": false,
     "makeups": null,
