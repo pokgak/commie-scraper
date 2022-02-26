@@ -562,7 +562,7 @@
         "product_limit": false,
         "quota_type": 1,
         "percentage_claimed": 0,
-        "percentage_used": 26,
+        "percentage_used": 28,
         "start_time": 1645804800,
         "end_time": 1646409540,
         "collect_time": null,
