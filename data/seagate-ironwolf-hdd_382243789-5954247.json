@@ -79,8 +79,8 @@
       1013019,
       1012786,
       1013205,
-      1012008,
-      1012669
+      1012669,
+      1012008
     ],
     "attributes": [
       {
@@ -562,7 +562,7 @@
         "product_limit": false,
         "quota_type": 1,
         "percentage_claimed": 0,
-        "percentage_used": 72,
+        "percentage_used": 76,
         "start_time": 1645804800,
         "end_time": 1646409540,
         "collect_time": null,
@@ -629,7 +629,7 @@
         "product_limit": false,
         "quota_type": 1,
         "percentage_claimed": 0,
-        "percentage_used": 43,
+        "percentage_used": 44,
         "start_time": 1644743640,
         "end_time": 1647705540,
         "collect_time": null,
