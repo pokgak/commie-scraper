@@ -78,8 +78,9 @@
       1013019,
       1012786,
       1013205,
-      1012669,
-      1012008
+      1003234,
+      1012008,
+      1012669
     ],
     "attributes": [
       {
@@ -561,7 +562,7 @@
         "product_limit": false,
         "quota_type": 1,
         "percentage_claimed": 0,
-        "percentage_used": 79,
+        "percentage_used": 84,
         "start_time": 1645804800,
         "end_time": 1646409540,
         "collect_time": null,
